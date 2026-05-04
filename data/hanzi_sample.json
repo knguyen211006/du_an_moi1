@@ -1,0 +1,72 @@
+[
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "tones": [3],
+    "radical": "戈",
+    "strokes": 7,
+    "hskLevel": 1,
+    "meaning": "I, me",
+    "decomposition": "手 (hand) + 戈 (halberd)",
+    "exampleSentences": [
+      { "sentence": "我是学生。", "pinyin": "Wǒ shì xuésheng.", "translation": "I am a student." },
+      { "sentence": "我爱你。", "pinyin": "Wǒ ài nǐ.", "translation": "I love you." }
+    ]
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "tones": [4],
+    "radical": "心",
+    "strokes": 10,
+    "hskLevel": 1,
+    "meaning": "love, affection",
+    "decomposition": "爫 (claw) + 冖 (cover) + 心 (heart) + 夂 (winter)",
+    "exampleSentences": [
+      { "sentence": "我妈妈爱我。", "pinyin": "Wǒ māma ài wǒ.", "translation": "My mom loves me." },
+      { "sentence": "他很爱看书。", "pinyin": "Tā hěn ài kàn shū.", "translation": "He loves reading books." }
+    ]
+  },
+  {
+    "hanzi": "学",
+    "pinyin": "xué",
+    "tones": [2],
+    "radical": "子",
+    "strokes": 8,
+    "hskLevel": 1,
+    "meaning": "study, learn",
+    "decomposition": "⺍ (small) + 冖 (cover) + 子 (child)",
+    "exampleSentences": [
+      { "sentence": "他在学校学习。", "pinyin": "Tā zài xuéxiào xuéxí.", "translation": "He studies at school." },
+      { "sentence": "我学汉语。", "pinyin": "Wǒ xué Hànyǔ.", "translation": "I study Chinese." }
+    ]
+  },
+  {
+    "hanzi": "习",
+    "pinyin": "xí",
+    "tones": [2],
+    "radical": "乙",
+    "strokes": 3,
+    "hskLevel": 1,
+    "meaning": "practice, exercise",
+    "decomposition": "羽 (feather) -> simplified to 习",
+    "exampleSentences": [
+      { "sentence": "学习", "pinyin": "xuéxí", "translation": "to study; to learn" },
+      { "sentence": "习惯", "pinyin": "xíguàn", "translation": "habit, custom" }
+    ]
+  },
+  {
+    "hanzi": "汉",
+    "pinyin": "hàn",
+    "tones": [4],
+    "radical": "氵",
+    "strokes": 5,
+    "hskLevel": 1,
+    "meaning": "Chinese; Han dynasty",
+    "decomposition": "氵 (water) + 又 (again)",
+    "exampleSentences": [
+      { "sentence": "汉字很难。", "pinyin": "Hànzì hěn nán.", "translation": "Chinese characters are difficult." },
+      { "sentence": "我说汉语。", "pinyin": "Wǒ shuō Hànyǔ.", "translation": "I speak Chinese." }
+    ]
+  }
+]

@@ -1,0 +1,4151 @@
+[
+  {
+    "id": "猖狂",
+    "hanzi": "猖狂",
+    "pinyin": "chāngkuáng",
+    "meaning": "chāng kuáng  savage  furious",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "棱角",
+    "hanzi": "棱角",
+    "pinyin": "léngjiǎo",
+    "meaning": "léng jiǎo  edge and corner  protrusion  sharpness (of a protrusion)  craggy  ridge corner",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "竹竿",
+    "hanzi": "竹竿",
+    "pinyin": "zhúgān",
+    "meaning": "zhú gān  bamboo  bamboo pole",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "穴位",
+    "hanzi": "穴位",
+    "pinyin": "xuéwèi",
+    "meaning": "xué wèi  acupuncture point",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "根深蒂固",
+    "hanzi": "根深蒂固",
+    "pinyin": "gēnshēn-dìgù",
+    "meaning": "gēn shēn dì gù  deep-rooted (problem etc)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "蕴涵",
+    "hanzi": "蕴涵",
+    "pinyin": "yùnhán",
+    "meaning": "yùn hán  to contain  to accumulate  to embrace  implicit condition  implication  entailment",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "天长地久",
+    "hanzi": "天长地久",
+    "pinyin": "tiāncháng-dìjiǔ",
+    "meaning": "tiān cháng dì jiǔ  enduring while the world lasts (idiom)  eternal",
+    "example": "不求情意绵绵，但求天长地久。",
+    "exampleTranslation": "Love me lithe, love me long.",
+    "level": "9"
+  },
+  {
+    "id": "没辙",
+    "hanzi": "没辙",
+    "pinyin": "méizhé",
+    "meaning": "méi zhé  at one's wit's end  unable to find a way out",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "遇险",
+    "hanzi": "遇险",
+    "pinyin": "yùxiǎn",
+    "meaning": "yù xiǎn  to get into difficulties  to meet with danger",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "纯朴",
+    "hanzi": "纯朴",
+    "pinyin": "chúnpǔ",
+    "meaning": "chún pǔ  variant of 淳樸|淳朴[chun2 pu3]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "喜怒哀乐",
+    "hanzi": "喜怒哀乐",
+    "pinyin": "xǐ-nù-āi-lè",
+    "meaning": "xǐ nù āi lè  four types of human emotions, namely: happiness 歡喜|欢喜[huan1 xi3], anger 憤怒|愤怒[fen4 nu4], sorrow 悲哀[bei1 ai1] and joy 快樂|快乐[kuai4 le4]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "取经",
+    "hanzi": "取经",
+    "pinyin": "qǔjīng",
+    "meaning": "qǔ jīng  to journey to India on a quest for the Buddhist scriptures  to learn by studying another's experience",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "密不可分",
+    "hanzi": "密不可分",
+    "pinyin": "mìbùkěfēn",
+    "meaning": "mì bù kě fēn  inextricably linked (idiom)  inseparable",
+    "example": "健康与运动及节制密不可分。",
+    "exampleTranslation": "Good health is inseparable from exercise and moderation.",
+    "level": "9"
+  },
+  {
+    "id": "凯歌",
+    "hanzi": "凯歌",
+    "pinyin": "kǎigē",
+    "meaning": "kǎi gē  triumphal hymn  victory song  paean",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "玄机",
+    "hanzi": "玄机",
+    "pinyin": "xuánjī",
+    "meaning": "xuán jī  profound theory (in Daoism and Buddhism)  mysterious principles",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "立方",
+    "hanzi": "立方",
+    "pinyin": "lìfāng",
+    "meaning": "lì fāng  cube (math.)  abbr. for 立方體|立方体[li4 fang1 ti3]  abbr. for 立方米[li4 fang1 mi3]",
+    "example": "三的立方是二十七。",
+    "exampleTranslation": "3 cubed is 27.",
+    "level": "9"
+  },
+  {
+    "id": "搀",
+    "hanzi": "搀",
+    "pinyin": "chān",
+    "meaning": "chān  to take by the arm and assist  to mix  to blend  to dilute  to adulterate",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "豁出去",
+    "hanzi": "豁出去",
+    "pinyin": "huōchuqu",
+    "meaning": "huō chu qu  to throw caution to the wind  to press one's luck  to go for broke",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "官僚主义",
+    "hanzi": "官僚主义",
+    "pinyin": "guānliáo zhǔyì",
+    "meaning": "guān liáo zhǔ yì  bureaucracy",
+    "example": "阿尔及利亚需要摆脱官僚主义。",
+    "exampleTranslation": "Algeria needs to get rid of its bureaucracy.",
+    "level": "9"
+  },
+  {
+    "id": "目不转睛",
+    "hanzi": "目不转睛",
+    "pinyin": "mùbùzhuǎnjīng",
+    "meaning": "mù bù zhuǎn jīng  unable to take one's eyes off (idiom); to gaze steadily  to stare",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "礁石",
+    "hanzi": "礁石",
+    "pinyin": "jiāoshí",
+    "meaning": "jiāo shí  reef",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "一揽子",
+    "hanzi": "一揽子",
+    "pinyin": "yìlǎnzi",
+    "meaning": "yī lǎn zi  all-inclusive  undiscriminating",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "怠慢",
+    "hanzi": "怠慢",
+    "pinyin": "dàimàn",
+    "meaning": "dài màn  to slight  to neglect",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "便道",
+    "hanzi": "便道",
+    "pinyin": "biàndào",
+    "meaning": "biàn dào  pavement  sidewalk  shortcut  makeshift road",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "珍视",
+    "hanzi": "珍视",
+    "pinyin": "zhēnshì",
+    "meaning": "zhēn shì  to place great importance on  to treasure",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "心想事成",
+    "hanzi": "心想事成",
+    "pinyin": "xīnxiǎng-shìchéng",
+    "meaning": "xīn xiǎng shì chéng  to have one's wishes come true  wish you the best!",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "彬彬有礼",
+    "hanzi": "彬彬有礼",
+    "pinyin": "bīnbīn-yǒulǐ",
+    "meaning": "bīn bīn yǒu lǐ  refined and courteous  urbane",
+    "example": "汤姆既彬彬有礼又善解人意。",
+    "exampleTranslation": "Tom is polite and sensitive.",
+    "level": "9"
+  },
+  {
+    "id": "日新月异",
+    "hanzi": "日新月异",
+    "pinyin": "rìxīn-yuèyì",
+    "meaning": "rì xīn yuè yì  daily renewal, monthly change (idiom)  every day sees new developments  rapid progress",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "连绵",
+    "hanzi": "连绵",
+    "pinyin": "liánmián",
+    "meaning": "lián mián  continuous  unbroken  uninterrupted  extending forever into the distance (of mountain range, river etc)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "豁达",
+    "hanzi": "豁达",
+    "pinyin": "huòdá",
+    "meaning": "huò dá  optimistic  sanguine  generous  magnanimous  open-minded",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "揣摩",
+    "hanzi": "揣摩",
+    "pinyin": "chuǎimó",
+    "meaning": "chuǎi mó  to analyze  to try to figure out  to try to fathom",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "浩劫",
+    "hanzi": "浩劫",
+    "pinyin": "hàojié",
+    "meaning": "hào jié  calamity  catastrophe  apocalypse",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "光缆",
+    "hanzi": "光缆",
+    "pinyin": "guānglǎn",
+    "meaning": "guāng lǎn  optical cable",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "不翼而飞",
+    "hanzi": "不翼而飞",
+    "pinyin": "búyì'érfēi",
+    "meaning": "bù yì ér fēi  to disappear without trace  to vanish all of a sudden  to spread fast  to spread like wildfire",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "脉络",
+    "hanzi": "脉络",
+    "pinyin": "màiluò",
+    "meaning": "\"mài luò  arteries and veins  network of blood vessels  vascular system (of a plant or animal)  (fig.) fabric (i.e. underlying structure, as in \"\"social fabric\"\")  overall context\"",
+    "example": "有时我会在一瞬间忽然迷失说话的脉络，像是忽然刮来一阵狂风，将正在演奏的乐谱吹得无影无踪。",
+    "exampleTranslation": "Sometimes I will lose the context of my speech in an instant, as if a sudden gust of wind blows away the music score being played without leaving a trace.",
+    "level": "9"
+  },
+  {
+    "id": "富足",
+    "hanzi": "富足",
+    "pinyin": "fùzú",
+    "meaning": "fù zú  rich  plentiful",
+    "example": "过富足的生活。",
+    "exampleTranslation": "Live in affluence.",
+    "level": "9"
+  },
+  {
+    "id": "耳熟能详",
+    "hanzi": "耳熟能详",
+    "pinyin": "ěrshú-néngxiáng",
+    "meaning": "ěr shú néng xiáng  what's frequently heard can be repeated in detail (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "发扬光大",
+    "hanzi": "发扬光大",
+    "pinyin": "fāyáng-guāngdà",
+    "meaning": "fā yáng guāng dà  to develop and promote  to carry forward  to bring to great height of development",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "边远",
+    "hanzi": "边远",
+    "pinyin": "biānyuǎn",
+    "meaning": "biān yuǎn  far from the center  remote  outlying",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "推辞",
+    "hanzi": "推辞",
+    "pinyin": "tuīcí",
+    "meaning": "tuī cí  to decline (an appointment, invitation etc)",
+    "example": "虽受邀参加今晚一个精彩万分的派对，奈何明日不得不打起精神出席会议，只好推辞了。",
+    "exampleTranslation": "I got an invitation to a party tonight that I know would be a lot of fun but I have to be in my best form for tomorrow's meeting so I had to turn it down.",
+    "level": "9"
+  },
+  {
+    "id": "潜移默化",
+    "hanzi": "潜移默化",
+    "pinyin": "qiányí-mòhuà",
+    "meaning": "qián yí mò huà  imperceptible influence  to influence secretly",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "酿造",
+    "hanzi": "酿造",
+    "pinyin": "niàngzào",
+    "meaning": "niàng zào  to brew  to make (wine, vinegar, soybean paste etc) by fermentation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "不相上下",
+    "hanzi": "不相上下",
+    "pinyin": "bùxiāng-shàngxià",
+    "meaning": "bù xiāng shàng xià  equally matched  about the same",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "按理说",
+    "hanzi": "按理说",
+    "pinyin": "ànlǐ shuō",
+    "meaning": "àn lǐ shuō  it is reasonable to say that...",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "茂密",
+    "hanzi": "茂密",
+    "pinyin": "màomì",
+    "meaning": "mào mì  dense (of plant growth)  lush",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "心安理得",
+    "hanzi": "心安理得",
+    "pinyin": "xīn'ān-lǐdé",
+    "meaning": "xīn ān lǐ dé  to have a clear conscience  to have no qualms about sth",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "沉甸甸",
+    "hanzi": "沉甸甸",
+    "pinyin": "chéndiàndiàn",
+    "meaning": "chén diàn diàn  heavy",
+    "example": "木质家具沉甸甸的。",
+    "exampleTranslation": "Wooden furniture is heavy.",
+    "level": "9"
+  },
+  {
+    "id": "赡养",
+    "hanzi": "赡养",
+    "pinyin": "shànyǎng",
+    "meaning": "shàn yǎng  to support  to provide support for  to maintain",
+    "example": "等父母老了，我会赡养他们。",
+    "exampleTranslation": "When my parents get old, I will support them.",
+    "level": "9"
+  },
+  {
+    "id": "熙熙攘攘",
+    "hanzi": "熙熙攘攘",
+    "pinyin": "xīxī-rǎngrǎng",
+    "meaning": "xī xī rǎng rǎng  bustling with activity (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "舵手",
+    "hanzi": "舵手",
+    "pinyin": "duòshǒu",
+    "meaning": "duò shǒu  helmsman",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "气魄",
+    "hanzi": "气魄",
+    "pinyin": "qìpò",
+    "meaning": "qì pò  spirit  boldness  positive outlook  imposing attitude",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "山川",
+    "hanzi": "山川",
+    "pinyin": "shānchuān",
+    "meaning": "shān chuān  mountains and rivers  landscape",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "茂盛",
+    "hanzi": "茂盛",
+    "pinyin": "màoshèng",
+    "meaning": "mào shèng  lush",
+    "example": "它长得很茂盛。",
+    "exampleTranslation": "It grew luxuriantly.",
+    "level": "9"
+  },
+  {
+    "id": "亏本",
+    "hanzi": "亏本",
+    "pinyin": "kuīběn",
+    "meaning": "kuī běn  to make a loss",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "孪生",
+    "hanzi": "孪生",
+    "pinyin": "luánshēng",
+    "meaning": "luán shēng  twin",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "笨重",
+    "hanzi": "笨重",
+    "pinyin": "bènzhòng",
+    "meaning": "bèn zhòng  heavy  cumbersome  unwieldy",
+    "example": "这个箱子太笨重了无法携带。",
+    "exampleTranslation": "This box is too bulky to carry.",
+    "level": "9"
+  },
+  {
+    "id": "无微不至",
+    "hanzi": "无微不至",
+    "pinyin": "wúwēi-búzhì",
+    "meaning": "wú wēi bù zhì  in every possible way (idiom); meticulous",
+    "example": "这位建筑师显然是一位无微不至的建筑师。",
+    "exampleTranslation": "You can see that the architect paid scrupulous attention to detail.",
+    "level": "9"
+  },
+  {
+    "id": "趁早",
+    "hanzi": "趁早",
+    "pinyin": "chènzǎo",
+    "meaning": "chèn zǎo  as soon as possible  at the first opportunity  the sooner the better  before it's too late",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "威慑",
+    "hanzi": "威慑",
+    "pinyin": "wēishè",
+    "meaning": "wēi shè  to cower by military force  deterrence",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "丘陵",
+    "hanzi": "丘陵",
+    "pinyin": "qiūlíng",
+    "meaning": "qiū líng  hills",
+    "example": "重庆是一座丘陵的城市，道路弯弯曲曲的。",
+    "exampleTranslation": "Chongqing is a hilly city with winding streets.",
+    "level": "9"
+  },
+  {
+    "id": "精妙",
+    "hanzi": "精妙",
+    "pinyin": "jīngmiào",
+    "meaning": "jīng miào  exquisite  fine and delicate (usu. of works of art)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "串门",
+    "hanzi": "串门",
+    "pinyin": "chuànmén",
+    "meaning": "chuàn mén  to call on sb  to drop in  to visit sb's home",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "龙舟",
+    "hanzi": "龙舟",
+    "pinyin": "lóngzhōu",
+    "meaning": "lóng zhōu  dragon boat  imperial boat",
+    "example": "端午节要赛龙舟。",
+    "exampleTranslation": "During the Dragon Boat Festival, there needs to be a dragon boat race.",
+    "level": "9"
+  },
+  {
+    "id": "晃荡",
+    "hanzi": "晃荡",
+    "pinyin": "huàngdang",
+    "meaning": "huàng dang  to rock  to sway  to shake",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "尼龙",
+    "hanzi": "尼龙",
+    "pinyin": "nílóng",
+    "meaning": "ní lóng  nylon (loanword)",
+    "example": "她买了一打尼龙袜。",
+    "exampleTranslation": "She bought a dozen nylon socks.",
+    "level": "9"
+  },
+  {
+    "id": "概论",
+    "hanzi": "概论",
+    "pinyin": "gàilùn",
+    "meaning": "gài lùn  outline  introduction  survey  general discussion",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "富强",
+    "hanzi": "富强",
+    "pinyin": "fùqiáng",
+    "meaning": "fù qiáng  rich and powerful",
+    "example": "我们的国家日益富强。",
+    "exampleTranslation": "Our country grows stronger day by day.",
+    "level": "9"
+  },
+  {
+    "id": "奋勇",
+    "hanzi": "奋勇",
+    "pinyin": "fènyǒng",
+    "meaning": "fèn yǒng  dauntless  to summon up courage and determination  using extreme force of will",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "嫁妆",
+    "hanzi": "嫁妆",
+    "pinyin": "jiàzhuang",
+    "meaning": "jià zhuang  dowry",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "和平共处",
+    "hanzi": "和平共处",
+    "pinyin": "hépíng gòngchǔ",
+    "meaning": "hé píng gòng chǔ  peaceful coexistence of nations, societies etc",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "丰硕",
+    "hanzi": "丰硕",
+    "pinyin": "fēngshuò",
+    "meaning": "fēng shuò  plentiful  substantial  rich (in resources etc)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "嫦娥",
+    "hanzi": "嫦娥",
+    "pinyin": "Cháng'é",
+    "meaning": "Cháng é  Chang'e, the lady in the moon (Chinese mythology)  one of the Chang'e series of PRC lunar spacecraft",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "风风雨雨",
+    "hanzi": "风风雨雨",
+    "pinyin": "fēngfēng-yǔyǔ",
+    "meaning": "fēng fēng yǔ yǔ  trials and tribulations  ups and downs",
+    "example": "风风雨雨造就了我。",
+    "exampleTranslation": "My battles make me who I am.",
+    "level": "9"
+  },
+  {
+    "id": "防盗门",
+    "hanzi": "防盗门",
+    "pinyin": "fángdàomén",
+    "meaning": "fáng dào mén  security door",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "分寸",
+    "hanzi": "分寸",
+    "pinyin": "fēncun",
+    "meaning": "fēn cun  propriety  appropriate behavior  proper speech or action  within the norms",
+    "example": "我自有分寸。",
+    "exampleTranslation": "I know what I'm doing.",
+    "level": "9"
+  },
+  {
+    "id": "冗长",
+    "hanzi": "冗长",
+    "pinyin": "rǒngcháng",
+    "meaning": "rǒng cháng  long and tedious  redundant  superfluous  supernumerary  verbose (of writing)",
+    "example": "这位老教授的讲座冗长而沉闷。",
+    "exampleTranslation": "The old professor's lectures are long-winded and ponderous.",
+    "level": "9"
+  },
+  {
+    "id": "绝缘",
+    "hanzi": "绝缘",
+    "pinyin": "juéyuán",
+    "meaning": "jué yuán  to have no contact with  to be cut off from  (electricity) to insulate",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "独立自主",
+    "hanzi": "独立自主",
+    "pinyin": "dúlì-zìzhǔ",
+    "meaning": "dú lì zì zhǔ  independent and autonomous (idiom); self-determination  to act independently  to maintain control over one's own affairs",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "心慌",
+    "hanzi": "心慌",
+    "pinyin": "xīnhuāng",
+    "meaning": "xīn huāng  to be flustered  (dialect) irregular heart-beat",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "出山",
+    "hanzi": "出山",
+    "pinyin": "chūshān",
+    "meaning": "chū shān  to leave the mountain (of a hermit)  to come out of obscurity to a government job  to take a leading position",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "敢情",
+    "hanzi": "敢情",
+    "pinyin": "gǎnqing",
+    "meaning": "gǎn qing  actually  as it turns out  indeed  of course",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "拙劣",
+    "hanzi": "拙劣",
+    "pinyin": "zhuōliè",
+    "meaning": "zhuō liè  clumsy  botched",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "止咳",
+    "hanzi": "止咳",
+    "pinyin": "zhǐké",
+    "meaning": "zhǐ ké  to suppress coughing",
+    "example": "你有止咳药吗？",
+    "exampleTranslation": "Do you have any cough medicine?",
+    "level": "9"
+  },
+  {
+    "id": "讲学",
+    "hanzi": "讲学",
+    "pinyin": "jiǎngxué",
+    "meaning": "jiǎng xué  to lecture (on branch of learning)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "吹捧",
+    "hanzi": "吹捧",
+    "pinyin": "chuīpěng",
+    "meaning": "chuī pěng  to flatter  to laud sb's accomplishments  adulation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "宽厚",
+    "hanzi": "宽厚",
+    "pinyin": "kuānhòu",
+    "meaning": "kuān hòu  tolerant  generous  magnanimous  thick and broad (build)  thick and deep (voice)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "引人入胜",
+    "hanzi": "引人入胜",
+    "pinyin": "yǐnrén-rùshèng",
+    "meaning": "yǐn rén rù shèng  to enchant  fascinating",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "特例",
+    "hanzi": "特例",
+    "pinyin": "tèlì",
+    "meaning": "tè lì  special case  isolated example",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "持之以恒",
+    "hanzi": "持之以恒",
+    "pinyin": "chízhī-yǐhéng",
+    "meaning": "chí zhī yǐ héng  to pursue unremittingly (idiom); to persevere",
+    "example": "我对汤姆要持之以恒地学习法语口语这件事很怀疑。",
+    "exampleTranslation": "I doubt that Tom will ever learn how to speak French properly.",
+    "level": "9"
+  },
+  {
+    "id": "争光",
+    "hanzi": "争光",
+    "pinyin": "zhēngguāng",
+    "meaning": "zhēng guāng  to win an honor  to strive to win a prize",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "耸立",
+    "hanzi": "耸立",
+    "pinyin": "sǒnglì",
+    "meaning": "sǒng lì  to stand tall  to tower aloft",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "倾家荡产",
+    "hanzi": "倾家荡产",
+    "pinyin": "qīngjiā-dàngchǎn",
+    "meaning": "qīng jiā dàng chǎn  to lose a family fortune (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "主题歌",
+    "hanzi": "主题歌",
+    "pinyin": "zhǔtígē",
+    "meaning": "zhǔ tí gē  theme song",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "扫墓",
+    "hanzi": "扫墓",
+    "pinyin": "sǎomù",
+    "meaning": "sǎo mù  to sweep a grave (and pay one's respects to the dead person)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "与日俱增",
+    "hanzi": "与日俱增",
+    "pinyin": "yǔrì-jùzēng",
+    "meaning": "yǔ rì jù zēng  to increase steadily  to grow with each passing day",
+    "example": "旗袍因有与众不同的特点而在国际时尚界享有与日俱增的名望。",
+    "exampleTranslation": "With its distinctive Chinese features, the qipao enjoys growing popularity in the international world of high fashion.",
+    "level": "9"
+  },
+  {
+    "id": "摇摇欲坠",
+    "hanzi": "摇摇欲坠",
+    "pinyin": "yáoyáo-yùzhuì",
+    "meaning": "yáo yáo yù zhuì  tottering  on the verge of collapse",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "胸有成竹",
+    "hanzi": "胸有成竹",
+    "pinyin": "xiōngyǒuchéngzhú",
+    "meaning": "xiōng yǒu chéng zhú  to plan in advance (idiom)  a card up one's sleeve  forewarned is forearmed",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "伤脑筋",
+    "hanzi": "伤脑筋",
+    "pinyin": "shāng nǎojīn",
+    "meaning": "shāng nǎo jīn  to be a real headache  to find sth a real headache  to beat one's brains",
+    "example": "真伤脑筋。",
+    "exampleTranslation": "It really is a headache.",
+    "level": "9"
+  },
+  {
+    "id": "了却",
+    "hanzi": "了却",
+    "pinyin": "liǎoquè",
+    "meaning": "liǎo què  to resolve  to settle",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "波涛",
+    "hanzi": "波涛",
+    "pinyin": "bōtāo",
+    "meaning": "bō tāo  great waves  billows",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "笛子",
+    "hanzi": "笛子",
+    "pinyin": "dízi",
+    "meaning": "dí zi  bamboo flute  CL:管[guan3]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "骏马",
+    "hanzi": "骏马",
+    "pinyin": "jùnmǎ",
+    "meaning": "jùn mǎ  fine horse  steed",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "容光焕发",
+    "hanzi": "容光焕发",
+    "pinyin": "róngguāng-huànfā",
+    "meaning": "róng guāng huàn fā  face glowing (idiom); looking radiant  all smiles",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "操劳",
+    "hanzi": "操劳",
+    "pinyin": "cāoláo",
+    "meaning": "cāo láo  to work hard  to look after",
+    "example": "他们不只是洗去汗水、污垢和镇日的操劳，同时也沉浸在闲话家常日常生活当中。",
+    "exampleTranslation": "They not only washed off the sweat, dirt and cares of the day in the hot water, but also enjoyed gossiping about everyday affairs.",
+    "level": "9"
+  },
+  {
+    "id": "兢兢业业",
+    "hanzi": "兢兢业业",
+    "pinyin": "jīngjīngyèyè",
+    "meaning": "jīng jīng yè yè  (idiom) conscientious  assiduous",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "临街",
+    "hanzi": "临街",
+    "pinyin": "línjiē",
+    "meaning": "lín jiē  facing the street",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "火辣辣",
+    "hanzi": "火辣辣",
+    "pinyin": "huǒlàlà",
+    "meaning": "huǒ là là  painful heat  scorching  painful heat  rude and forthright  provocative  hot  sexy",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "忠贞",
+    "hanzi": "忠贞",
+    "pinyin": "zhōngzhēn",
+    "meaning": "zhōng zhēn  loyal and dependable",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "依依不舍",
+    "hanzi": "依依不舍",
+    "pinyin": "yīyī-bùshě",
+    "meaning": "yī yī bù shě  reluctant to part (idiom); broken-hearted at having to leave",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "眼红",
+    "hanzi": "眼红",
+    "pinyin": "yǎnhóng",
+    "meaning": "yǎn hóng  to covet  envious  jealous  green with envy  infuriated  furious",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "蚊帐",
+    "hanzi": "蚊帐",
+    "pinyin": "wénzhàng",
+    "meaning": "wén zhàng  mosquito net  CL:頂|顶[ding3]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "寥寥无几",
+    "hanzi": "寥寥无几",
+    "pinyin": "liáoliáo-wújǐ",
+    "meaning": "liáo liáo wú jǐ  just a very few (idiom); tiny number  not many at all  You count them on your fingers.",
+    "example": "值得观看的电视节目寥寥无几。",
+    "exampleTranslation": "Only a few TV programs are worth watching.",
+    "level": "9"
+  },
+  {
+    "id": "海量",
+    "hanzi": "海量",
+    "pinyin": "hǎiliàng",
+    "meaning": "hǎi liàng  huge volume",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "喜出望外",
+    "hanzi": "喜出望外",
+    "pinyin": "xǐchūwàngwài",
+    "meaning": "xǐ chū wàng wài  to be pleased beyond one's expectations (idiom)  overjoyed at the turn of events",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "涝",
+    "hanzi": "涝",
+    "pinyin": "lào",
+    "meaning": "lào  flooded",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "勾画",
+    "hanzi": "勾画",
+    "pinyin": "gōuhuà",
+    "meaning": "gōu huà  to sketch out  to delineate",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "韧性",
+    "hanzi": "韧性",
+    "pinyin": "rènxìng",
+    "meaning": "rèn xìng  toughness",
+    "example": "我凭韧性克服了困难。",
+    "exampleTranslation": "I got over the difficulty with my characteristic tenacity.",
+    "level": "9"
+  },
+  {
+    "id": "拜见",
+    "hanzi": "拜见",
+    "pinyin": "bàijiàn",
+    "meaning": "bài jiàn  to pay a formal visit  to call to pay respects  to meet one's senior or superior",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "按说",
+    "hanzi": "按说",
+    "pinyin": "ànshuō",
+    "meaning": "àn shuō  in the ordinary course of events  ordinarily  normally",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "埋没",
+    "hanzi": "埋没",
+    "pinyin": "máimò",
+    "meaning": "mái mò  to engulf  to bury  to overlook  to stifle  to neglect  to fall into oblivion",
+    "example": "我觉得李斯特的《被遗忘的圆舞曲第三首》是个被埋没的名曲。",
+    "exampleTranslation": "\"I think that Liszt's \"\"Forgotten Waltz No.3\"\" is a hidden masterpiece.\"",
+    "level": "9"
+  },
+  {
+    "id": "备课",
+    "hanzi": "备课",
+    "pinyin": "bèikè",
+    "meaning": "bèi kè  (of a teacher) to prepare lessons",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "天经地义",
+    "hanzi": "天经地义",
+    "pinyin": "tiānjīng-dìyì",
+    "meaning": "tiān jīng dì yì  lit. heaven's law and earth's principle (idiom); fig. right and proper  right and unalterable  a matter of course",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "郊游",
+    "hanzi": "郊游",
+    "pinyin": "jiāoyóu",
+    "meaning": "jiāo yóu  to go for an outing  to go on an excursion",
+    "example": "我想去郊游。",
+    "exampleTranslation": "I want to have a picnic.",
+    "level": "9"
+  },
+  {
+    "id": "衰弱",
+    "hanzi": "衰弱",
+    "pinyin": "shuāiruò",
+    "meaning": "shuāi ruò  weak  feeble",
+    "example": "他们观察到她随著病情变化身体也渐渐衰弱下去。",
+    "exampleTranslation": "They watched her gradually weaken as the disease progressed.",
+    "level": "9"
+  },
+  {
+    "id": "脊梁",
+    "hanzi": "脊梁",
+    "pinyin": "jǐliáng",
+    "meaning": "jǐ liáng  backbone  spine  Taiwan pr. [ji3 liang5]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "鞭策",
+    "hanzi": "鞭策",
+    "pinyin": "biāncè",
+    "meaning": "biān cè  to spur on  to urge on  to encourage sb (e.g. to make progress)",
+    "example": "杰西鞭策小毛驴前进。",
+    "exampleTranslation": "Jessie urged the little donkey forward.",
+    "level": "9"
+  },
+  {
+    "id": "退让",
+    "hanzi": "退让",
+    "pinyin": "tuìràng",
+    "meaning": "tuì ràng  to move aside  to get out of the way  to back down  to concede",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "翠绿",
+    "hanzi": "翠绿",
+    "pinyin": "cuìlǜ",
+    "meaning": "cuì lǜ  greenish-blue  emerald green",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "心病",
+    "hanzi": "心病",
+    "pinyin": "xīnbìng",
+    "meaning": "xīn bìng  anxiety  sore point  secret worry  mental disorder  heart disease (medicine)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "中庸",
+    "hanzi": "中庸",
+    "pinyin": "zhōngyōng",
+    "meaning": "zhōng yōng  golden mean (Confucianism)  (literary) (of person) mediocre  ordinary   Zhōng yōng  the Doctrine of the Mean, one of the Four Books 四書|四书[Si4 shu1]",
+    "example": "凡事行中庸之道。",
+    "exampleTranslation": "Moderation in all things.",
+    "level": "9"
+  },
+  {
+    "id": "居高临下",
+    "hanzi": "居高临下",
+    "pinyin": "jūgāo-línxià",
+    "meaning": "jū gāo lín xià  to live high and look down (idiom)  to overlook  to tower above  to occupy the high ground  fig. arrogance based on one's social position",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "灼热",
+    "hanzi": "灼热",
+    "pinyin": "zhuórè",
+    "meaning": "zhuó rè  burning hot  scorching  worried",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "拍板",
+    "hanzi": "拍板",
+    "pinyin": "pāibǎn",
+    "meaning": "pāi bǎn  clapper-board  auctioneer's hammer  to beat time with clappers",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "戈壁",
+    "hanzi": "戈壁",
+    "pinyin": "gēbì",
+    "meaning": "Gē bì  Gobi (desert)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "逞强",
+    "hanzi": "逞强",
+    "pinyin": "chěngqiáng",
+    "meaning": "chěng qiáng  to show off  to try to be brave",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "笼统",
+    "hanzi": "笼统",
+    "pinyin": "lǒngtǒng",
+    "meaning": "lǒng tǒng  general  broad  sweeping  lacking in detail  vague",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "建树",
+    "hanzi": "建树",
+    "pinyin": "jiànshù",
+    "meaning": "jiàn shù  to make a contribution  to establish  to found  contribution",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "铺路",
+    "hanzi": "铺路",
+    "pinyin": "pūlù",
+    "meaning": "pū lù  to pave (with paving stones)  to lay a road  (fig.) to lay the groundwork (for sth)  to give a present to sb to ensure success",
+    "example": "前人铺路，后人行路。",
+    "exampleTranslation": "One generation builds the street that the next will travel on.",
+    "level": "9"
+  },
+  {
+    "id": "碧绿",
+    "hanzi": "碧绿",
+    "pinyin": "bìlǜ",
+    "meaning": "bì lǜ  dark green",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "得不偿失",
+    "hanzi": "得不偿失",
+    "pinyin": "débùchángshī",
+    "meaning": "dé bù cháng shī  the gains do not make up for the losses (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "哗然",
+    "hanzi": "哗然",
+    "pinyin": "huárán",
+    "meaning": "huá rán  in uproar  commotion  causing a storm of protest  tumultuous   huá rán  variant of 嘩然|哗然[hua2 ran2]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "东张西望",
+    "hanzi": "东张西望",
+    "pinyin": "dōngzhāng-xīwàng",
+    "meaning": "dōng zhāng xī wàng  to look in all directions (idiom)  to glance around",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "祖籍",
+    "hanzi": "祖籍",
+    "pinyin": "zǔjí",
+    "meaning": "zǔ jí  ancestral hometown  original domicile (and civil registration)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "失传",
+    "hanzi": "失传",
+    "pinyin": "shīchuán",
+    "meaning": "shī chuán  (of skills etc) to die out  lost  extinct",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "聚精会神",
+    "hanzi": "聚精会神",
+    "pinyin": "jùjīng-huìshén",
+    "meaning": "jù jīng huì shén  to concentrate one's attention (idiom)",
+    "example": "大家都在聚精会神地听著。",
+    "exampleTranslation": "Everyone was listening very carefully.",
+    "level": "9"
+  },
+  {
+    "id": "自相矛盾",
+    "hanzi": "自相矛盾",
+    "pinyin": "zìxiāng-máodùn",
+    "meaning": "zì xiāng máo dùn  to contradict oneself  self-contradictory  inconsistent",
+    "example": "你在自相矛盾。",
+    "exampleTranslation": "You're contradicting yourself.",
+    "level": "9"
+  },
+  {
+    "id": "千家万户",
+    "hanzi": "千家万户",
+    "pinyin": "qiānjiā-wànhù",
+    "meaning": "qiān jiā wàn hù  every family (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "洪亮",
+    "hanzi": "洪亮",
+    "pinyin": "hóngliàng",
+    "meaning": "hóng liàng  loud and clear  resonant",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "香油",
+    "hanzi": "香油",
+    "pinyin": "xiāngyóu",
+    "meaning": "xiāng yóu  sesame oil  perfumed oil",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "触觉",
+    "hanzi": "触觉",
+    "pinyin": "chùjué",
+    "meaning": "chù jué  touch  sense of touch  tactile",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "教条",
+    "hanzi": "教条",
+    "pinyin": "jiàotiáo",
+    "meaning": "jiào tiáo  doctrine  dogma  creed  dogmatic",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "退却",
+    "hanzi": "退却",
+    "pinyin": "tuìquè",
+    "meaning": "tuì què  to retreat  to shrink back",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "朝代",
+    "hanzi": "朝代",
+    "pinyin": "cháodài",
+    "meaning": "cháo dài  dynasty  reign (of a king)",
+    "example": "后来，因为接连的许多朝代都批准它，佛教变得更分部广的并对中国精神、文化和艺术的发展有极大的影响。",
+    "exampleTranslation": "Afterwards, because it was sanctioned by many of the successive dynasties Buddhism became widespread and had a tremendous impact on the development of Chinese thought, culture and art.",
+    "level": "9"
+  },
+  {
+    "id": "休眠",
+    "hanzi": "休眠",
+    "pinyin": "xiūmián",
+    "meaning": "xiū mián  to be dormant (biology)  inactive (volcano)  to hibernate (computing)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "萌发",
+    "hanzi": "萌发",
+    "pinyin": "méngfā",
+    "meaning": "méng fā  to sprout  to shoot  to bud",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "大同小异",
+    "hanzi": "大同小异",
+    "pinyin": "dàtóng-xiǎoyì",
+    "meaning": "dà tóng xiǎo yì  virtually the same  differing only on small points",
+    "example": "如果你理解这一个,其它的也大同小异。",
+    "exampleTranslation": "If you understand this one, then the others are nearly the same.",
+    "level": "9"
+  },
+  {
+    "id": "口吃",
+    "hanzi": "口吃",
+    "pinyin": "kǒuchī",
+    "meaning": "kǒu chī  to stammer  to stutter  also pr. [kou3 ji2]",
+    "example": "你怎么说这样的口吃？",
+    "exampleTranslation": "How is it you speak with such a stutter?",
+    "level": "9"
+  },
+  {
+    "id": "夜校",
+    "hanzi": "夜校",
+    "pinyin": "yèxiào",
+    "meaning": "yè xiào  evening school  night school",
+    "example": "她在夜校上自卫术课程。",
+    "exampleTranslation": "She took night classes in the art of self-defense.",
+    "level": "9"
+  },
+  {
+    "id": "接班",
+    "hanzi": "接班",
+    "pinyin": "jiēbān",
+    "meaning": "jiē bān  to take over (from those working the previous shift)  to take over (in a leadership role etc)  to succeed sb",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "呜咽",
+    "hanzi": "呜咽",
+    "pinyin": "wūyè",
+    "meaning": "wū yè  to sob  to whimper",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "欢声笑语",
+    "hanzi": "欢声笑语",
+    "pinyin": "huānshēng-xiàoyǔ",
+    "meaning": "huān shēng xiào yǔ  cheers and laughter",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "隐情",
+    "hanzi": "隐情",
+    "pinyin": "yǐnqíng",
+    "meaning": "yǐn qíng  sth one wishes to keep secret  ulterior motive  a subject best avoided",
+    "example": "此事必有隐情。",
+    "exampleTranslation": "There must be something at the back of this matter.",
+    "level": "9"
+  },
+  {
+    "id": "纬度",
+    "hanzi": "纬度",
+    "pinyin": "wěidù",
+    "meaning": "wěi dù  latitude",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "志气",
+    "hanzi": "志气",
+    "pinyin": "zhìqì",
+    "meaning": "zhì qì  ambition  resolve  backbone  drive  spirit",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "圣贤",
+    "hanzi": "圣贤",
+    "pinyin": "shèngxián",
+    "meaning": "shèng xián  a sage  wise and holy man  virtuous ruler  Buddhist lama  wine",
+    "example": "道教是用老子的教导创立的，他是公元前六零四年在现代的河南省出生的圣贤。",
+    "exampleTranslation": "Taoism was founded on the teachings of Laozi, a sage born in 604 B.C. in present-day Henan Province.",
+    "level": "9"
+  },
+  {
+    "id": "官吏",
+    "hanzi": "官吏",
+    "pinyin": "guānlì",
+    "meaning": "guān lì  bureaucrat  official",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "惨白",
+    "hanzi": "惨白",
+    "pinyin": "cǎnbái",
+    "meaning": "cǎn bái  deathly pale",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "归根到底",
+    "hanzi": "归根到底",
+    "pinyin": "guīgēn-dàodǐ",
+    "meaning": "guī gēn dào dǐ  after all  in the final analysis  ultimately",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "杨树",
+    "hanzi": "杨树",
+    "pinyin": "yángshù",
+    "meaning": "yáng shù  poplar tree  various trees of genus Populus",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "家家户户",
+    "hanzi": "家家户户",
+    "pinyin": "jiājiāhùhù",
+    "meaning": "jiā jiā hù hù  each and every family (idiom)  every household",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "腊月",
+    "hanzi": "腊月",
+    "pinyin": "làyuè",
+    "meaning": "Là yuè  twelfth lunar month",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "怜惜",
+    "hanzi": "怜惜",
+    "pinyin": "liánxī",
+    "meaning": "lián xī  to take pity on  to feel tenderness toward",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "抚养费",
+    "hanzi": "抚养费",
+    "pinyin": "fǔyǎngfèi",
+    "meaning": "fǔ yǎng fèi  child support payment (after a divorce)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "水涨船高",
+    "hanzi": "水涨船高",
+    "pinyin": "shuǐzhǎng-chuángāo",
+    "meaning": "shuǐ zhǎng chuán gāo  the tide rises, the boat floats (idiom); fig. to change with the overall trend  to develop according to the situation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "瞻仰",
+    "hanzi": "瞻仰",
+    "pinyin": "zhānyǎng",
+    "meaning": "zhān yǎng  to revere  to admire",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "恼羞成怒",
+    "hanzi": "恼羞成怒",
+    "pinyin": "nǎoxiū-chéngnù",
+    "meaning": "nǎo xiū chéng nù  to fly into a rage out of humiliation  to be ashamed into anger (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "豁",
+    "hanzi": "豁",
+    "pinyin": "huō",
+    "meaning": "huō  opening  stake all  sacrifice  crack  slit",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "两栖",
+    "hanzi": "两栖",
+    "pinyin": "liǎngqī",
+    "meaning": "liǎng qī  amphibious  dual-talented  able to work in two different lines",
+    "example": "鱼类、两栖动物和爬行动物都是冷血动物。",
+    "exampleTranslation": "Fish, amphibians, and reptiles are cold-blooded animals.",
+    "level": "9"
+  },
+  {
+    "id": "肥沃",
+    "hanzi": "肥沃",
+    "pinyin": "féiwò",
+    "meaning": "féi wò  fertile",
+    "example": "他农场的土地十分肥沃。",
+    "exampleTranslation": "The land on his farm is very fertile.",
+    "level": "9"
+  },
+  {
+    "id": "僵化",
+    "hanzi": "僵化",
+    "pinyin": "jiānghuà",
+    "meaning": "jiāng huà  to become rigid",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "吃喝玩乐",
+    "hanzi": "吃喝玩乐",
+    "pinyin": "chī-hē-wán-lè",
+    "meaning": "chī hē wán lè  to eat, drink and be merry (idiom)  to abandon oneself to a life of pleasure",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "学艺",
+    "hanzi": "学艺",
+    "pinyin": "xuéyì",
+    "meaning": "xué yì  to learn a skill or art",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "贮藏",
+    "hanzi": "贮藏",
+    "pinyin": "zhùcáng",
+    "meaning": "zhù cáng  to store up  to hoard  deposits",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "自强不息",
+    "hanzi": "自强不息",
+    "pinyin": "zìqiáng-bùxī",
+    "meaning": "zì qiáng bù xī  to strive unremittingly  self-improvement",
+    "example": "马不但象征著刚健、高昂、昌盛、发达，还代表著奋斗不止、自强不息的民族精神。",
+    "exampleTranslation": "The horse does not just represent energy, high spirits, prosperity, development, but also stands for a national spirit of struggling on without stopping, and of striving on without giving up.",
+    "level": "9"
+  },
+  {
+    "id": "灵机一动",
+    "hanzi": "灵机一动",
+    "pinyin": "língjī-yídòng",
+    "meaning": "líng jī yī dòng  a bright idea suddenly occurs (idiom); to hit upon an inspiration  to be struck by a brainwave",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "骇人听闻",
+    "hanzi": "骇人听闻",
+    "pinyin": "hàiréntīngwén",
+    "meaning": "hài rén tīng wén  shocking  horrifying  atrocious  terrible",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "请帖",
+    "hanzi": "请帖",
+    "pinyin": "qǐngtiě",
+    "meaning": "qǐng tiě  invitation card  written invitation",
+    "example": "我收到了一张请帖。",
+    "exampleTranslation": "I received an invitation.",
+    "level": "9"
+  },
+  {
+    "id": "夸耀",
+    "hanzi": "夸耀",
+    "pinyin": "kuāyào",
+    "meaning": "kuā yào  to brag about  to flaunt",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "易拉罐",
+    "hanzi": "易拉罐",
+    "pinyin": "yìlāguàn",
+    "meaning": "yì lā guàn  pull-top can  easy-open can (with ring-pull)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "勤工俭学",
+    "hanzi": "勤工俭学",
+    "pinyin": "qíngōng-jiǎnxué",
+    "meaning": "qín gōng jiǎn xué  to work part time while studying  work-study program",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "以身作则",
+    "hanzi": "以身作则",
+    "pinyin": "yǐshēn-zuòzé",
+    "meaning": "yǐ shēn zuò zé  to set an example (idiom); to serve as a model",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "生命线",
+    "hanzi": "生命线",
+    "pinyin": "shēngmìngxiàn",
+    "meaning": "shēng mìng xiàn  lifeline",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "工科",
+    "hanzi": "工科",
+    "pinyin": "gōngkē",
+    "meaning": "gōng kē  engineering as an academic subject",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "祖传",
+    "hanzi": "祖传",
+    "pinyin": "zǔchuán",
+    "meaning": "zǔ chuán  passed on from ancestors  handed down from generation to generation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "素不相识",
+    "hanzi": "素不相识",
+    "pinyin": "sùbùxiāngshí",
+    "meaning": "sù bù xiāng shí  to be total strangers (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "烘托",
+    "hanzi": "烘托",
+    "pinyin": "hōngtuō",
+    "meaning": "hōng tuō  background (of a painting)  backdrop  a foil (to set off something to advantage)  to offset (something to advantage)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "侍候",
+    "hanzi": "侍候",
+    "pinyin": "shìhòu",
+    "meaning": "shì hòu  to serve  to wait upon",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "温习",
+    "hanzi": "温习",
+    "pinyin": "wēnxí",
+    "meaning": "wēn xí  to review (a lesson etc)",
+    "example": "我明天去图书馆温习。",
+    "exampleTranslation": "Tomorrow, I'm going to study at the library.",
+    "level": "9"
+  },
+  {
+    "id": "腐化",
+    "hanzi": "腐化",
+    "pinyin": "fǔhuà",
+    "meaning": "fǔ huà  to rot  to decay  to become corrupt",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "因人而异",
+    "hanzi": "因人而异",
+    "pinyin": "yīnrén'éryì",
+    "meaning": "yīn rén ér yì  varying from person to person (idiom); different for each individual",
+    "example": "睡眠时间的长短可因人而异。",
+    "exampleTranslation": "The amount of time spent asleep can vary from person to person.",
+    "level": "9"
+  },
+  {
+    "id": "拜会",
+    "hanzi": "拜会",
+    "pinyin": "bàihuì",
+    "meaning": "bài huì  pay an official call  call on  visit in an official capacity",
+    "example": "他前天拜会了法国总统。",
+    "exampleTranslation": "He made an official visit to the French president the day before yesterday.",
+    "level": "9"
+  },
+  {
+    "id": "讥笑",
+    "hanzi": "讥笑",
+    "pinyin": "jīxiào",
+    "meaning": "jī xiào  to sneer",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "求医",
+    "hanzi": "求医",
+    "pinyin": "qiúyī",
+    "meaning": "qiú yī  to seek medical treatment  to see a doctor",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "漠然",
+    "hanzi": "漠然",
+    "pinyin": "mòrán",
+    "meaning": "mò rán  indifferent  apathetic  cold",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "酌情",
+    "hanzi": "酌情",
+    "pinyin": "zhuóqíng",
+    "meaning": "zhuó qíng  to use discretion  to take circumstances into account  to make allowances pertinent to a situation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "伸缩",
+    "hanzi": "伸缩",
+    "pinyin": "shēnsuō",
+    "meaning": "shēn suō  to lengthen and shorten  flexible  adjustable  retractable  extensible  telescoping (collapsible)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "妨害",
+    "hanzi": "妨害",
+    "pinyin": "fánghài",
+    "meaning": "fáng hài  to impair  damaging  harmful  a nuisance",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "相辅相成",
+    "hanzi": "相辅相成",
+    "pinyin": "xiāngfǔ-xiāngchéng",
+    "meaning": "xiāng fǔ xiāng chéng  to complement one another (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "僻静",
+    "hanzi": "僻静",
+    "pinyin": "pìjìng",
+    "meaning": "pì jìng  lonely  secluded",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "不假思索",
+    "hanzi": "不假思索",
+    "pinyin": "bùjiǎ-sīsuǒ",
+    "meaning": "bù jiǎ sī suǒ  to act without taking time to think (idiom); to react instantly  to fire from the hip",
+    "example": "汤姆不假思索脱口而出。",
+    "exampleTranslation": "Tom speaks without thinking.",
+    "level": "9"
+  },
+  {
+    "id": "急迫",
+    "hanzi": "急迫",
+    "pinyin": "jípò",
+    "meaning": "jí pò  urgent  pressing  imperative",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "痴心",
+    "hanzi": "痴心",
+    "pinyin": "chīxīn",
+    "meaning": "chī xīn  infatuation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "阎王",
+    "hanzi": "阎王",
+    "pinyin": "Yánwang",
+    "meaning": "Yán wáng  same as 閻羅王|阎罗王  Yama, King of Hell  translation of Sanskrit: Yama Raja",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "一筹莫展",
+    "hanzi": "一筹莫展",
+    "pinyin": "yìchóu-mòzhǎn",
+    "meaning": "yī chóu mò zhǎn  to be unable to find a solution  to be at wits' end",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "心急如焚",
+    "hanzi": "心急如焚",
+    "pinyin": "xīnjí-rúfén",
+    "meaning": "xīn jí rú fén  to burn with impatience  torn with anxiety",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "温度计",
+    "hanzi": "温度计",
+    "pinyin": "wēndùjì",
+    "meaning": "wēn dù jì  thermometer  thermograph",
+    "example": "温度计上的温度跌到了零度以下。",
+    "exampleTranslation": "The thermometer went down below zero.",
+    "level": "9"
+  },
+  {
+    "id": "不辞而别",
+    "hanzi": "不辞而别",
+    "pinyin": "bùcí'érbié",
+    "meaning": "bù cí ér bié  to leave without saying good-bye",
+    "example": "他不辞而别。",
+    "exampleTranslation": "He left without saying goodbye.",
+    "level": "9"
+  },
+  {
+    "id": "佐料",
+    "hanzi": "佐料",
+    "pinyin": "zuǒliào",
+    "meaning": "zuǒ liào  condiments  seasoning",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "精益求精",
+    "hanzi": "精益求精",
+    "pinyin": "jīngyìqiújīng",
+    "meaning": "jīng yì qiú jīng  to perfect sth that is already outstanding (idiom); constantly improving",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "互访",
+    "hanzi": "互访",
+    "pinyin": "hùfǎng",
+    "meaning": "hù fǎng  exchange visits",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "槐树",
+    "hanzi": "槐树",
+    "pinyin": "huáishù",
+    "meaning": "huái shù  locust tree (Sophora japonica)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "挂失",
+    "hanzi": "挂失",
+    "pinyin": "guàshī",
+    "meaning": "guà shī  to report the loss of something",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "起程",
+    "hanzi": "起程",
+    "pinyin": "qǐchéng",
+    "meaning": "qǐ chéng  to set out  to leave",
+    "example": "我们因为风暴推迟了起程。",
+    "exampleTranslation": "We postponed our departure because of the storm.",
+    "level": "9"
+  },
+  {
+    "id": "艰险",
+    "hanzi": "艰险",
+    "pinyin": "jiānxiǎn",
+    "meaning": "jiān xiǎn  difficult and dangerous  hardships and perils",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "耍赖",
+    "hanzi": "耍赖",
+    "pinyin": "shuǎlài",
+    "meaning": "shuǎ lài  to act shamelessly  to refuse to acknowledge that one has lost the game, or made a promise etc  to act dumb  to act as if sth never happened",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "恰如其分",
+    "hanzi": "恰如其分",
+    "pinyin": "qiàrú-qífèn",
+    "meaning": "qià rú qí fèn  (idiom) appropriate  apt  just right",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "掉队",
+    "hanzi": "掉队",
+    "pinyin": "diàoduì",
+    "meaning": "diào duì  to fall behind  to drop out",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "重合",
+    "hanzi": "重合",
+    "pinyin": "chónghé",
+    "meaning": "chóng hé  to match up  to coincide",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "成群结队",
+    "hanzi": "成群结队",
+    "pinyin": "chéngqún-jiéduì",
+    "meaning": "chéng qún jié duì  making up a group, forming a troupe (idiom); in large numbers  as a large crowd",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "探求",
+    "hanzi": "探求",
+    "pinyin": "tànqiú",
+    "meaning": "tàn qiú  to seek  to pursue  to investigate",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "害臊",
+    "hanzi": "害臊",
+    "pinyin": "hàisào",
+    "meaning": "hài sào  to be bashful  to feel ashamed",
+    "example": "我们没理由害臊。",
+    "exampleTranslation": "We have no reason to feel ashamed.",
+    "level": "9"
+  },
+  {
+    "id": "会意",
+    "hanzi": "会意",
+    "pinyin": "huìyì",
+    "meaning": "huì yì  combined ideogram (one of the Six Methods 六書|六书[liu4 shu1] of forming Chinese characters)  Chinese character that combines the meanings of existing elements  also known as joint ideogram or associative compounds  to comprehend without being told explicitly  to cotton on  knowing (smile, glance etc)",
+    "example": "有一天你会意识到它",
+    "exampleTranslation": "The day will come when you will realize it.",
+    "level": "9"
+  },
+  {
+    "id": "忙乱",
+    "hanzi": "忙乱",
+    "pinyin": "mángluàn",
+    "meaning": "máng luàn  rushed and muddled",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "朝夕相处",
+    "hanzi": "朝夕相处",
+    "pinyin": "zhāoxī-xiāngchǔ",
+    "meaning": "zhāo xī xiāng chǔ  to spend all one's time together (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "举世瞩目",
+    "hanzi": "举世瞩目",
+    "pinyin": "jǔshì-zhǔmù",
+    "meaning": "jǔ shì zhǔ mù  to receive worldwide attention",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "划时代",
+    "hanzi": "划时代",
+    "pinyin": "huàshídài",
+    "meaning": "huà shí dài  epoch-marking",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "旷课",
+    "hanzi": "旷课",
+    "pinyin": "kuàngkè",
+    "meaning": "kuàng kè  to play truant  to cut classes",
+    "example": "汤姆总是旷课。",
+    "exampleTranslation": "Tom is always absent.",
+    "level": "9"
+  },
+  {
+    "id": "下坠",
+    "hanzi": "下坠",
+    "pinyin": "xiàzhuì",
+    "meaning": "xià zhuì  (of objects) to fall  to drop  to droop  (medicine) to experience tenesmus",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "锦旗",
+    "hanzi": "锦旗",
+    "pinyin": "jǐnqí",
+    "meaning": "jǐn qí  silk banner (as an award or gift)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "自私自利",
+    "hanzi": "自私自利",
+    "pinyin": "zìsī-zìlì",
+    "meaning": "zì sī zì lì  everything for self and selfish profit (idiom); with no regard for others  selfish  mercenary",
+    "example": "他只不过是个自私自利的人。",
+    "exampleTranslation": "He is nothing more than an egoist.",
+    "level": "9"
+  },
+  {
+    "id": "恩情",
+    "hanzi": "恩情",
+    "pinyin": "ēnqíng",
+    "meaning": "ēn qíng  kindness  affection  grace  favor",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "弊病",
+    "hanzi": "弊病",
+    "pinyin": "bìbìng",
+    "meaning": "bì bìng  malady  evil  malpractice  drawback  disadvantage",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "精打细算",
+    "hanzi": "精打细算",
+    "pinyin": "jīngdǎ-xìsuàn",
+    "meaning": "jīng dǎ xì suàn  meticulous planning and careful accounting (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "走后门",
+    "hanzi": "走后门",
+    "pinyin": "zǒu hòumén",
+    "meaning": "zǒu hòu mén  lit. to enter by the back door  fig. to gain influence by pull or unofficial channels  back door or under the counter connections",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "混浊",
+    "hanzi": "混浊",
+    "pinyin": "hùnzhuó",
+    "meaning": "hùn zhuó  turbid  muddy  dirty",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "欠条",
+    "hanzi": "欠条",
+    "pinyin": "qiàntiáo",
+    "meaning": "qiàn tiáo  IOU  certificate of indebtedness",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "刮风",
+    "hanzi": "刮风",
+    "pinyin": "guā fēng",
+    "meaning": "guā fēng  to be windy",
+    "example": "已经刮风两天了。",
+    "exampleTranslation": "It has been windy for two days.",
+    "level": "9"
+  },
+  {
+    "id": "错别字",
+    "hanzi": "错别字",
+    "pinyin": "cuòbiézì",
+    "meaning": "cuò bié zì  incorrectly written or mispronounced characters",
+    "example": "我总是写错别字。",
+    "exampleTranslation": "I always make typos.",
+    "level": "9"
+  },
+  {
+    "id": "滑梯",
+    "hanzi": "滑梯",
+    "pinyin": "huátī",
+    "meaning": "huá tī  (children's) sliding board  a slide",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "撤换",
+    "hanzi": "撤换",
+    "pinyin": "chèhuàn",
+    "meaning": "chè huàn  to dismiss and replace (sb)  to replace (sb or sth)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "工整",
+    "hanzi": "工整",
+    "pinyin": "gōngzhěng",
+    "meaning": "gōng zhěng  fine work  carefully and neatly done",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "美中不足",
+    "hanzi": "美中不足",
+    "pinyin": "měizhōng-bùzú",
+    "meaning": "měi zhōng bù zú  everything is fine except for one small defect (idiom); the fly in the ointment",
+    "example": "这张桌子不错，不过有一个美中不足的地方 ﹣ 我的房间放不下它。",
+    "exampleTranslation": "This table is fine except in one respect - it will not fit into my room.",
+    "level": "9"
+  },
+  {
+    "id": "开垦",
+    "hanzi": "开垦",
+    "pinyin": "kāikěn",
+    "meaning": "kāi kěn  to clear a wild area for cultivation  to put under the plow",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "畏缩",
+    "hanzi": "畏缩",
+    "pinyin": "wèisuō",
+    "meaning": "wèi suō  to cower  to flinch  to quail  to recoil",
+    "example": "士兵作战时毫无畏缩，但到了最后还是不得不投降。",
+    "exampleTranslation": "The soldiers fought valiantly, but finally they had to give in.",
+    "level": "9"
+  },
+  {
+    "id": "节气",
+    "hanzi": "节气",
+    "pinyin": "jiéqì",
+    "meaning": "jié qi  solar term",
+    "example": "就现在这个节气来说天气是相当温和了。",
+    "exampleTranslation": "It's fairly mild for this time of year.",
+    "level": "9"
+  },
+  {
+    "id": "假使",
+    "hanzi": "假使",
+    "pinyin": "jiǎshǐ",
+    "meaning": "jiǎ shǐ  if  in case  suppose  given ...",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "宽泛",
+    "hanzi": "宽泛",
+    "pinyin": "kuānfàn",
+    "meaning": "kuān fàn  wide-ranging",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "举世闻名",
+    "hanzi": "举世闻名",
+    "pinyin": "jǔshì-wénmíng",
+    "meaning": "jǔ shì wén míng  world-famous (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "亡羊补牢",
+    "hanzi": "亡羊补牢",
+    "pinyin": "wángyáng-bǔláo",
+    "meaning": "wáng yáng bǔ láo  lit. to mend the pen after sheep are lost (idiom)  fig. to act belatedly  better late than never  to lock the stable door after the horse has bolted",
+    "example": "亡羊补牢。",
+    "exampleTranslation": "Better late than never.",
+    "level": "9"
+  },
+  {
+    "id": "呼风唤雨",
+    "hanzi": "呼风唤雨",
+    "pinyin": "hūfēng-huànyǔ",
+    "meaning": "hū fēng huàn yǔ  to call the wind and summon the rain (idiom); to exercise magical powers  fig. to stir up troubles",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "可乘之机",
+    "hanzi": "可乘之机",
+    "pinyin": "kěchéngzhījī",
+    "meaning": "kě chéng zhī jī  an opportunity that someone (usually a villain or adversary) can exploit",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "旋涡",
+    "hanzi": "旋涡",
+    "pinyin": "xuánwō",
+    "meaning": "xuán wō  spiral  whirlpool  eddy  vortex",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "衣食住行",
+    "hanzi": "衣食住行",
+    "pinyin": "yī-shí-zhù-xíng",
+    "meaning": "yī shí zhù xíng  clothing, food, housing and transport (idiom); people's basic needs",
+    "example": "孩子们的衣食住行靠的是他们的父母。",
+    "exampleTranslation": "Children depend on their parents for food, clothing and shelter.",
+    "level": "9"
+  },
+  {
+    "id": "七嘴八舌",
+    "hanzi": "七嘴八舌",
+    "pinyin": "qīzuǐ-bāshé",
+    "meaning": "qī zuǐ bā shé  lively discussion with everybody talking at once",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "瑰宝",
+    "hanzi": "瑰宝",
+    "pinyin": "guībǎo",
+    "meaning": "guī bǎo  gem  (fig.) rare and valuable item  gem  treasure",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "有声有色",
+    "hanzi": "有声有色",
+    "pinyin": "yǒushēng-yǒusè",
+    "meaning": "yǒu shēng yǒu sè  having sound and color (idiom); vivid  dazzling",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "说闲话",
+    "hanzi": "说闲话",
+    "pinyin": "shuō xiánhuà",
+    "meaning": "shuō xián huà  to chat  to gossip",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "烦闷",
+    "hanzi": "烦闷",
+    "pinyin": "fánmèn",
+    "meaning": "fán mèn  moody  gloomy",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "夸夸其谈",
+    "hanzi": "夸夸其谈",
+    "pinyin": "kuākuā-qítán",
+    "meaning": "kuā kuā qí tán  to talk big  to sound off  bombastic  grandiloquent",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "活期",
+    "hanzi": "活期",
+    "pinyin": "huóqī",
+    "meaning": "huó qī  (banking) current (account)  checking (account)  demand (deposit etc)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "恋恋不舍",
+    "hanzi": "恋恋不舍",
+    "pinyin": "liànliàn-bùshě",
+    "meaning": "liàn liàn bù shě  reluctant to part",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "大大咧咧",
+    "hanzi": "大大咧咧",
+    "pinyin": "dàdaliēliē",
+    "meaning": "dà dà liē liē  carefree  offhand  casual",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "欢聚",
+    "hanzi": "欢聚",
+    "pinyin": "huānjù",
+    "meaning": "huān jù  to get together socially  to celebrate  party  celebration",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "由此看来",
+    "hanzi": "由此看来",
+    "pinyin": "yóucǐ-kànlái",
+    "meaning": "yóu cǐ kàn lái  thereby  judging from this",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "守株待兔",
+    "hanzi": "守株待兔",
+    "pinyin": "shǒuzhū-dàitù",
+    "meaning": "shǒu zhū dài tù  lit. to guard a tree-stump, waiting for rabbits (idiom)  to wait idly for opportunities  to trust to chance rather than show initiative",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "计策",
+    "hanzi": "计策",
+    "pinyin": "jìcè",
+    "meaning": "jì cè  stratagem",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "刚毅",
+    "hanzi": "刚毅",
+    "pinyin": "gāngyì",
+    "meaning": "gāng yì  resolute  steadfast  stalwart",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "函授",
+    "hanzi": "函授",
+    "pinyin": "hánshòu",
+    "meaning": "hán shòu  to teach by correspondence",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "堤坝",
+    "hanzi": "堤坝",
+    "pinyin": "dībà",
+    "meaning": "dī bà  dam  dike",
+    "example": "堤坝保护了城市免受洪灾。",
+    "exampleTranslation": "The bank secured the city from a flood.",
+    "level": "9"
+  },
+  {
+    "id": "衰减",
+    "hanzi": "衰减",
+    "pinyin": "shuāijiǎn",
+    "meaning": "shuāi jiǎn  to weaken  to attenuate",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "欣欣向荣",
+    "hanzi": "欣欣向荣",
+    "pinyin": "xīnxīn-xiàngróng",
+    "meaning": "xīn xīn xiàng róng  (idiom) flourishing  thriving",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "奸诈",
+    "hanzi": "奸诈",
+    "pinyin": "jiānzhà",
+    "meaning": "jiān zhà  treachery  devious  a rogue",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "打岔",
+    "hanzi": "打岔",
+    "pinyin": "dǎchà",
+    "meaning": "dǎ chà  interruption  to interrupt (esp. talk)  to change the subject",
+    "example": "别打岔!",
+    "exampleTranslation": "Don't cut in!",
+    "level": "9"
+  },
+  {
+    "id": "面面俱到",
+    "hanzi": "面面俱到",
+    "pinyin": "miànmiàn-jùdào",
+    "meaning": "miàn miàn jù dào  (idiom) take care of everything; handle everything",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "见外",
+    "hanzi": "见外",
+    "pinyin": "jiànwài",
+    "meaning": "jiàn wài  to treat sb with the formal courtesy accorded to a host or a guest",
+    "example": "我们突然听见外面传来了一下枪声。",
+    "exampleTranslation": "All at once we heard a shot outside.",
+    "level": "9"
+  },
+  {
+    "id": "小曲",
+    "hanzi": "小曲",
+    "pinyin": "xiǎoqǔ",
+    "meaning": "xiǎo qǔ  popular song  folk tune  ballad",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "杂乱无章",
+    "hanzi": "杂乱无章",
+    "pinyin": "záluàn-wúzhāng",
+    "meaning": "zá luàn wú zhāng  disordered and in a mess (idiom); all mixed up and chaotic",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "一技之长",
+    "hanzi": "一技之长",
+    "pinyin": "yíjìzhīcháng",
+    "meaning": "yī jì zhī cháng  proficiency in a particular field (idiom)  skill in a specialized area (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "鹤立鸡群",
+    "hanzi": "鹤立鸡群",
+    "pinyin": "hèlìjīqún",
+    "meaning": "hè lì jī qún  a crane in a flock of chicken (idiom); way above the common  manifestly superior",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "多心",
+    "hanzi": "多心",
+    "pinyin": "duōxīn",
+    "meaning": "duō xīn  oversensitive  suspicious",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "无所作为",
+    "hanzi": "无所作为",
+    "pinyin": "wúsuǒzuòwéi",
+    "meaning": "wú suǒ zuò wéi  attempting nothing and accomplishing nothing (idiom); without any initiative or drive  feckless",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "树梢",
+    "hanzi": "树梢",
+    "pinyin": "shùshāo",
+    "meaning": "shù shāo  the tip of a tree  treetop",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "粗心大意",
+    "hanzi": "粗心大意",
+    "pinyin": "cūxīn-dàyì",
+    "meaning": "cū xīn dà yì  negligent  careless  inadvertent",
+    "example": "他责备了我的粗心大意。",
+    "exampleTranslation": "He reproached me for carelessness.",
+    "level": "9"
+  },
+  {
+    "id": "堆砌",
+    "hanzi": "堆砌",
+    "pinyin": "duīqì",
+    "meaning": "duī qì  lit. to pile up (bricks)  to pack  fig. to pad out (writing with fancy phrases)  ornate rhetoric",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "朝气蓬勃",
+    "hanzi": "朝气蓬勃",
+    "pinyin": "zhāoqì-péngbó",
+    "meaning": "zhāo qì péng bó  full of youthful energy (idiom); vigorous  energetic  a bright spark",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "譬如说",
+    "hanzi": "譬如说",
+    "pinyin": "pìrú shuō",
+    "meaning": "pì rú shuō  for example",
+    "example": "你有出国过吗？譬如说，美国？",
+    "exampleTranslation": "Have you visited foreign countries, say America?",
+    "level": "9"
+  },
+  {
+    "id": "火暴",
+    "hanzi": "火暴",
+    "pinyin": "huǒbào",
+    "meaning": "huǒ bào  variant of 火爆[huo3 bao4]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "跑龙套",
+    "hanzi": "跑龙套",
+    "pinyin": "pǎo lóngtào",
+    "meaning": "pǎo lóng tào  to play a small role",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "千变万化",
+    "hanzi": "千变万化",
+    "pinyin": "qiānbiàn-wànhuà",
+    "meaning": "qiān biàn wàn huà  countless changes  constant permutation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "红眼",
+    "hanzi": "红眼",
+    "pinyin": "hóngyǎn",
+    "meaning": "hóng yǎn  to become infuriated  to see red  envious  jealous  covetous  pink eye (conjunctivitis)  red-eye (flight)(photography) red eye",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "柏树",
+    "hanzi": "柏树",
+    "pinyin": "bǎishù",
+    "meaning": "bǎi shù  cypress tree  Taiwan pr. [bo2 shu4]",
+    "example": "这片森林的树主要是柏树。",
+    "exampleTranslation": "The main type of tree in this part of the forest is the cypress.",
+    "level": "9"
+  },
+  {
+    "id": "半信半疑",
+    "hanzi": "半信半疑",
+    "pinyin": "bànxìn-bànyí",
+    "meaning": "bàn xìn bàn yí  half doubting  dubious  skeptical",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "说情",
+    "hanzi": "说情",
+    "pinyin": "shuōqíng",
+    "meaning": "shuō qíng  to intercede  to plead for sb else",
+    "example": "他们说情况只是暂时的。",
+    "exampleTranslation": "They said the situation was only temporary.",
+    "level": "9"
+  },
+  {
+    "id": "磁卡",
+    "hanzi": "磁卡",
+    "pinyin": "cíkǎ",
+    "meaning": "cí kǎ  magnetic card  IC Card (telephone)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "哺育",
+    "hanzi": "哺育",
+    "pinyin": "bǔyù",
+    "meaning": "bǔ yù  to feed  to nurture  to foster",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "从容不迫",
+    "hanzi": "从容不迫",
+    "pinyin": "cóngróng-búpò",
+    "meaning": "cóng róng bù pò  calm  unruffled",
+    "example": "我希望所有那些想要修订现行著作权法的人一个从容不迫的夜晚，但实际上所有其他的人也一样。",
+    "exampleTranslation": "I wish all those an unhurried night who want a revision of the existing copyright laws, but actually all the others too.",
+    "level": "9"
+  },
+  {
+    "id": "观感",
+    "hanzi": "观感",
+    "pinyin": "guāngǎn",
+    "meaning": "guān gǎn  one's impressions  observations",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "硕果",
+    "hanzi": "硕果",
+    "pinyin": "shuòguǒ",
+    "meaning": "shuò guǒ  major achievement  great work  triumphant success",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "俊俏",
+    "hanzi": "俊俏",
+    "pinyin": "jùnqiào",
+    "meaning": "jùn qiào  attractive and intelligent  charming  elegant",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "嬉笑",
+    "hanzi": "嬉笑",
+    "pinyin": "xīxiào",
+    "meaning": "xī xiào  to be laughing and playing  to giggle",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "珍重",
+    "hanzi": "珍重",
+    "pinyin": "zhēnzhòng",
+    "meaning": "zhēn zhòng  precious  extremely valuable  (honorific) Please take good care of yourself!",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "前无古人",
+    "hanzi": "前无古人",
+    "pinyin": "qiánwúgǔrén",
+    "meaning": "qián wú gǔ rén  (idiom) unprecedented  unheard of",
+    "example": "他是一位前无古人的大科学家。",
+    "exampleTranslation": "He is as great a scientist as ever lived.",
+    "level": "9"
+  },
+  {
+    "id": "面红耳赤",
+    "hanzi": "面红耳赤",
+    "pinyin": "miànhóng-ěrchì",
+    "meaning": "miàn hóng ěr chì  flushed with anger (or excitement)",
+    "example": "这两个人因意见不合，而争得面红耳赤不欢而散。",
+    "exampleTranslation": "Due to differing opinions between the two, they argued angrily, before leaving unhappily.",
+    "level": "9"
+  },
+  {
+    "id": "目中无人",
+    "hanzi": "目中无人",
+    "pinyin": "mùzhōng-wúrén",
+    "meaning": "mù zhōng wú rén  to consider everyone else beneath one (idiom); so arrogant that no-one else matters  condescending  to go about with one's nose in the air",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "似是而非",
+    "hanzi": "似是而非",
+    "pinyin": "sìshì-érfēi",
+    "meaning": "sì shì ér fēi  apparently right but actually wrong; specious (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "壮胆",
+    "hanzi": "壮胆",
+    "pinyin": "zhuàngdǎn",
+    "meaning": "zhuàng dǎn  to get one’s courage up  to embolden",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "一鼓作气",
+    "hanzi": "一鼓作气",
+    "pinyin": "yìgǔ-zuòqì",
+    "meaning": "yī gǔ zuò qì  in a spurt of energy",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "耻笑",
+    "hanzi": "耻笑",
+    "pinyin": "chǐxiào",
+    "meaning": "chǐ xiào  to sneer at sb  to ridicule",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "风和日丽",
+    "hanzi": "风和日丽",
+    "pinyin": "fēnghé-rìlì",
+    "meaning": "fēng hé rì lì  moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "犯愁",
+    "hanzi": "犯愁",
+    "pinyin": "fànchóu",
+    "meaning": "fàn chóu  to worry  to be anxious",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "半边天",
+    "hanzi": "半边天",
+    "pinyin": "bànbiāntiān",
+    "meaning": "bàn biān tiān  half the sky  women of the new society  womenfolk",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "定心丸",
+    "hanzi": "定心丸",
+    "pinyin": "dìngxīnwán",
+    "meaning": "dìng xīn wán  tranquilizer  sth that sets one's mind at ease",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "哄堂大笑",
+    "hanzi": "哄堂大笑",
+    "pinyin": "hōngtáng-dàxiào",
+    "meaning": "hōng táng dà xiào  the whole room roaring with laughter (idiom)",
+    "example": "哄堂大笑。",
+    "exampleTranslation": "The whole audience erupted in laughter.",
+    "level": "9"
+  },
+  {
+    "id": "泼冷水",
+    "hanzi": "泼冷水",
+    "pinyin": "pō lěngshuǐ",
+    "meaning": "pō lěng shuǐ  lit. to pour cold water on  fig. to dampen one's enthusiasm",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "敬而远之",
+    "hanzi": "敬而远之",
+    "pinyin": "jìng'éryuǎnzhī",
+    "meaning": "jìng ér yuǎn zhī  to show respect from a distance (idiom)  to remain at a respectful distance",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "扣人心弦",
+    "hanzi": "扣人心弦",
+    "pinyin": "kòurénxīnxián",
+    "meaning": "kòu rén xīn xián  to excite  to thrill  exciting  thrilling  cliff-hanging",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "诚心诚意",
+    "hanzi": "诚心诚意",
+    "pinyin": "chéngxīn-chéngyì",
+    "meaning": "chéng xīn chéng yì  earnestly and sincerely (idiom); with all sincerity",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "贺信",
+    "hanzi": "贺信",
+    "pinyin": "hèxìn",
+    "meaning": "hè xìn  congratulatory letter or message",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "喜酒",
+    "hanzi": "喜酒",
+    "pinyin": "xǐjiǔ",
+    "meaning": "xǐ jiǔ  wedding feast  liquor drunk at a wedding feast",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "稠密",
+    "hanzi": "稠密",
+    "pinyin": "chóumì",
+    "meaning": "chóu mì  dense",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "千钧一发",
+    "hanzi": "千钧一发",
+    "pinyin": "qiānjūn-yífà",
+    "meaning": "qiān jūn yī fà  a thousand pounds hangs by a thread (idiom)  imminent peril  a matter of life or death",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "砂糖",
+    "hanzi": "砂糖",
+    "pinyin": "shātáng",
+    "meaning": "shā táng  granulated sugar",
+    "example": "罐头里没有砂糖了。",
+    "exampleTranslation": "There is no sugar left in the pot.",
+    "level": "9"
+  },
+  {
+    "id": "斩草除根",
+    "hanzi": "斩草除根",
+    "pinyin": "zhǎncǎo-chúgēn",
+    "meaning": "zhǎn cǎo chú gēn  to cut weeds and eliminate the roots (idiom); to destroy root and branch  to eliminate completely",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "娇气",
+    "hanzi": "娇气",
+    "pinyin": "jiāoqì",
+    "meaning": "jiāo qì  delicate  squeamish  finicky",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "茶道",
+    "hanzi": "茶道",
+    "pinyin": "chádào",
+    "meaning": "chá dào  Japanese tea ceremony  sado",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "侠义",
+    "hanzi": "侠义",
+    "pinyin": "xiáyì",
+    "meaning": "xiá yì  chivalrous  chivalry  knight-errantry",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "同舟共济",
+    "hanzi": "同舟共济",
+    "pinyin": "tóngzhōu-gòngjì",
+    "meaning": "tóng zhōu gòng jì  cross a river in the same boat (idiom); fig. having common interests  obliged to collaborate towards common goals",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "世袭",
+    "hanzi": "世袭",
+    "pinyin": "shìxí",
+    "meaning": "shì xí  succession  inheritance  hereditary",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "一言一行",
+    "hanzi": "一言一行",
+    "pinyin": "yìyán-yìxíng",
+    "meaning": "yī yán yī xíng  every word and action (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "一年到头",
+    "hanzi": "一年到头",
+    "pinyin": "yìnián-dàotóu",
+    "meaning": "yī nián dào tóu  all year round",
+    "example": "他一年到头努力工作。",
+    "exampleTranslation": "He works hard all the year round.",
+    "level": "9"
+  },
+  {
+    "id": "远近闻名",
+    "hanzi": "远近闻名",
+    "pinyin": "yuǎnjìn-wénmíng",
+    "meaning": "yuǎn jìn wén míng  to be known far and wide  to be well-known",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "争分夺秒",
+    "hanzi": "争分夺秒",
+    "pinyin": "zhēngfēn-duómiǎo",
+    "meaning": "zhēng fēn duó miǎo  lit. fight minutes, snatch seconds (idiom); a race against time  making every second count",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "偏方",
+    "hanzi": "偏方",
+    "pinyin": "piānfāng",
+    "meaning": "piān fāng  folk remedy  home remedy",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "山岭",
+    "hanzi": "山岭",
+    "pinyin": "shānlǐng",
+    "meaning": "shān lǐng  mountain ridge",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "大雁",
+    "hanzi": "大雁",
+    "pinyin": "dàyàn",
+    "meaning": "dà yàn  wild goose  CL:隻|只[zhi1]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "沏",
+    "hanzi": "沏",
+    "pinyin": "qī",
+    "meaning": "qī  to steep (tea)",
+    "example": "我来给你沏茶。",
+    "exampleTranslation": "Let me make you some tea.",
+    "level": "9"
+  },
+  {
+    "id": "变幻莫测",
+    "hanzi": "变幻莫测",
+    "pinyin": "biànhuàn-mòcè",
+    "meaning": "biàn huàn mò cè  to change unpredictably  unpredictable  erratic  treacherous",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "鸦雀无声",
+    "hanzi": "鸦雀无声",
+    "pinyin": "yāquè-wúshēng",
+    "meaning": "yā què wú shēng  lit. crow and peacock make no sound  absolute silence (idiom); not a single voice can be heard  absolute silence",
+    "example": "突然间，鸦雀无声。",
+    "exampleTranslation": "Suddenly, everything fell silent.",
+    "level": "9"
+  },
+  {
+    "id": "泰斗",
+    "hanzi": "泰斗",
+    "pinyin": "tàidǒu",
+    "meaning": "tài dǒu  (abbr. for 泰山北斗[Tai4 Shan1 Bei3 dou3]) distinguished figure  doyen  revered authority",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "絮叨",
+    "hanzi": "絮叨",
+    "pinyin": "xùdao",
+    "meaning": "xù dao  long-winded  garrulous  to talk endlessly without getting to the point",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "峰回路转",
+    "hanzi": "峰回路转",
+    "pinyin": "fēnghuí-lùzhuǎn",
+    "meaning": "fēng huí lù zhuǎn  the mountain road twists around each new peak (idiom)  (of a mountain road) twisting and turning  fig. an opportunity has come unexpectedly  things have taken a new turn",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "逞能",
+    "hanzi": "逞能",
+    "pinyin": "chěngnéng",
+    "meaning": "chěng néng  to show off one's ability  to boast one's merits",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "有的放矢",
+    "hanzi": "有的放矢",
+    "pinyin": "yǒudì-fàngshǐ",
+    "meaning": "yǒu dì fàng shǐ  lit. to have a target in mind when shooting one's arrows (idiom)  fig. to have a clear objective",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "光明磊落",
+    "hanzi": "光明磊落",
+    "pinyin": "guāngmíng-lěiluò",
+    "meaning": "guāng míng lěi luò  open and candid (idiom); straightforward and upright",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "川流不息",
+    "hanzi": "川流不息",
+    "pinyin": "chuānliú-bùxī",
+    "meaning": "chuān liú bù xī  the stream flows without stopping (idiom); unending flow",
+    "example": "移民川流不息地进入这个国家。",
+    "exampleTranslation": "The immigrants entered the country in a steady flow.",
+    "level": "9"
+  },
+  {
+    "id": "出洋相",
+    "hanzi": "出洋相",
+    "pinyin": "chū yángxiàng",
+    "meaning": "chū yáng xiàng  to make a fool of oneself",
+    "example": "你要是再给我们公司出洋相，我可就不客气了。",
+    "exampleTranslation": "If you make fun of our company again, we certainly won’t be polite to you.",
+    "level": "9"
+  },
+  {
+    "id": "醇厚",
+    "hanzi": "醇厚",
+    "pinyin": "chúnhòu",
+    "meaning": "chún hòu  mellow and rich  simple and kind",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "头头是道",
+    "hanzi": "头头是道",
+    "pinyin": "tóutóu-shìdào",
+    "meaning": "tóu tóu shì dào  clear and logical",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "渣子",
+    "hanzi": "渣子",
+    "pinyin": "zhāzi",
+    "meaning": "zhā zi  dregs  bits  dregs (of society)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "陶冶",
+    "hanzi": "陶冶",
+    "pinyin": "táoyě",
+    "meaning": "táo yě  lit. to fire pots and smelt metal  fig. to educate",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "栋梁",
+    "hanzi": "栋梁",
+    "pinyin": "dòngliáng",
+    "meaning": "dòng liáng  ridgepole  ridgepole and beams  person able to bear heavy responsibility  mainstay (of organization)  pillar (of state)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "发愣",
+    "hanzi": "发愣",
+    "pinyin": "fālèng",
+    "meaning": "fā lèng  to daydream  in a daze",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "单边",
+    "hanzi": "单边",
+    "pinyin": "dānbiān",
+    "meaning": "dān biān  unilateral",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "改日",
+    "hanzi": "改日",
+    "pinyin": "gǎirì",
+    "meaning": "gǎi rì  another day  some other day",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "千军万马",
+    "hanzi": "千军万马",
+    "pinyin": "qiānjūn-wànmǎ",
+    "meaning": "qiān jūn wàn mǎ  magnificent army with thousands of men and horses (idiom); impressive display of manpower  all the King's horses and all the King's men",
+    "example": "胃里如同千军万马开过。",
+    "exampleTranslation": "An army marches on its stomach.",
+    "level": "9"
+  },
+  {
+    "id": "壮实",
+    "hanzi": "壮实",
+    "pinyin": "zhuàngshi",
+    "meaning": "zhuàng shi  robust  sturdy",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "阔绰",
+    "hanzi": "阔绰",
+    "pinyin": "kuòchuò",
+    "meaning": "kuò chuò  ostentatious  extravagant  liberal with money",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "交头接耳",
+    "hanzi": "交头接耳",
+    "pinyin": "jiāotóu-jiē'ěr",
+    "meaning": "jiāo tóu jiē ěr  to whisper to one another's ear",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "无恶不作",
+    "hanzi": "无恶不作",
+    "pinyin": "wú'è-búzuò",
+    "meaning": "wú è bù zuò  not to shrink from any crime (idiom); to commit any imaginable misdeed",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "炉灶",
+    "hanzi": "炉灶",
+    "pinyin": "lúzào",
+    "meaning": "lú zào  stove",
+    "example": "约翰离开了公司，另起炉灶。",
+    "exampleTranslation": "John turned his back on the company and started on his own.",
+    "level": "9"
+  },
+  {
+    "id": "顾全大局",
+    "hanzi": "顾全大局",
+    "pinyin": "gùquán-dàjú",
+    "meaning": "gù quán dà jú  to take the big picture into consideration (idiom)  to work for the benefits of all",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "吵嘴",
+    "hanzi": "吵嘴",
+    "pinyin": "chǎozuǐ",
+    "meaning": "chǎo zuǐ  to quarrel",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "左顾右盼",
+    "hanzi": "左顾右盼",
+    "pinyin": "zuǒgù-yòupàn",
+    "meaning": "zuǒ gù yòu pàn  glancing to left and right (idiom); to look all around",
+    "example": "她左顾右盼。",
+    "exampleTranslation": "She looked all around.",
+    "level": "9"
+  },
+  {
+    "id": "举一反三",
+    "hanzi": "举一反三",
+    "pinyin": "jǔyī-fǎnsān",
+    "meaning": "jǔ yī fǎn sān  to raise one and infer three  to deduce many things from one case (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "强占",
+    "hanzi": "强占",
+    "pinyin": "qiángzhàn",
+    "meaning": "qiáng zhàn  to occupy by force",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "私房钱",
+    "hanzi": "私房钱",
+    "pinyin": "sīfángqián",
+    "meaning": "sī fáng qián  secret purse  secret stash of money",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "杠铃",
+    "hanzi": "杠铃",
+    "pinyin": "gànglíng",
+    "meaning": "gàng líng  barbell",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "过奖",
+    "hanzi": "过奖",
+    "pinyin": "guòjiǎng",
+    "meaning": "guò jiǎng  to overpraise  to flatter",
+    "example": "过奖了。",
+    "exampleTranslation": "I'm flattered.",
+    "level": "9"
+  },
+  {
+    "id": "接济",
+    "hanzi": "接济",
+    "pinyin": "jiējì",
+    "meaning": "jiē jì  to give material assistance to",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "潦草",
+    "hanzi": "潦草",
+    "pinyin": "liáocǎo",
+    "meaning": "liáo cǎo  careless  slovenly  illegible (of handwriting)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "纵横交错",
+    "hanzi": "纵横交错",
+    "pinyin": "zònghéng-jiāocuò",
+    "meaning": "zòng héng jiāo cuò  criss-crossed (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "酣睡",
+    "hanzi": "酣睡",
+    "pinyin": "hānshuì",
+    "meaning": "hān shuì  to sleep soundly  to fall into a deep sleep",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "悲欢离合",
+    "hanzi": "悲欢离合",
+    "pinyin": "bēihuān-líhé",
+    "meaning": "bēi huān lí hé  joys and sorrows  partings and reunions  the vicissitudes of life",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "废寝忘食",
+    "hanzi": "废寝忘食",
+    "pinyin": "fèiqǐn-wàngshí",
+    "meaning": "fèi qǐn wàng shí  to neglect sleep and forget about food (idiom)  to skip one's sleep and meals  to be completely wrapped up in one's work",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "俯首",
+    "hanzi": "俯首",
+    "pinyin": "fǔshǒu",
+    "meaning": "fǔ shǒu  to bend one's head",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "约定俗成",
+    "hanzi": "约定俗成",
+    "pinyin": "yuēdìng-súchéng",
+    "meaning": "yuē dìng sú chéng  established by popular usage (idiom); common usage agreement  customary convention",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "仙鹤",
+    "hanzi": "仙鹤",
+    "pinyin": "xiānhè",
+    "meaning": "xiān hè  red-crowned crane (Grus japonensis)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "诀别",
+    "hanzi": "诀别",
+    "pinyin": "juébié",
+    "meaning": "jué bié  to bid farewell  to part (usually with little hope of meeting again)",
+    "example": "很多人问我，青春的诀别是否意味著年迈的将近。",
+    "exampleTranslation": "A lot of people ask me whether bidding goodbye to youth means old age is near.",
+    "level": "9"
+  },
+  {
+    "id": "走弯路",
+    "hanzi": "走弯路",
+    "pinyin": "zǒu wānlù",
+    "meaning": "zǒu wān lù  to take an indirect route  to waste one's time by using an inappropriate method",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "门当户对",
+    "hanzi": "门当户对",
+    "pinyin": "méndāng-hùduì",
+    "meaning": "mén dāng hù duì  the families are well-matched in terms of social status (idiom)  (of a prospective marriage partner) an appropriate match",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "举世无双",
+    "hanzi": "举世无双",
+    "pinyin": "jǔshì-wúshuāng",
+    "meaning": "jǔ shì wú shuāng  unrivaled (idiom); world number one  unique  unequaled",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "见仁见智",
+    "hanzi": "见仁见智",
+    "pinyin": "jiànrén-jiànzhì",
+    "meaning": "jiàn rén jiàn zhì  opinions differ (idiom)",
+    "example": "《洪范》到底是什么时代的作品, 千百年来人们见仁见智, 至今仍无定论。",
+    "exampleTranslation": "\"Just what time period is \"\"Hong Fan\"\" a product of? Although people have debated this issue for ages, there is still no clear consensus to this day.\"",
+    "level": "9"
+  },
+  {
+    "id": "盛气凌人",
+    "hanzi": "盛气凌人",
+    "pinyin": "shèngqì-língrén",
+    "meaning": "shèng qì líng rén  overbearing  arrogant bully",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "通顺",
+    "hanzi": "通顺",
+    "pinyin": "tōngshùn",
+    "meaning": "tōng shùn  smooth  clear and coherent",
+    "example": "语言主要是用来沟通，如果可以表词达意，书写没有错字，语意通顺，我认为就是正确的句子了。",
+    "exampleTranslation": "A language is used to communicate, if the words are used correctly, didn't write any incorrect words, and the sentence has no grammar mistakes, in my opinion, this is a correct sentence.",
+    "level": "9"
+  },
+  {
+    "id": "精练",
+    "hanzi": "精练",
+    "pinyin": "jīngliàn",
+    "meaning": "jīng liàn  (textiles) to scour  to degum (silk)  variant of 精煉|精炼[jing1 lian4]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "藤椅",
+    "hanzi": "藤椅",
+    "pinyin": "téngyǐ",
+    "meaning": "téng yǐ  rattan chair",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "歌咏",
+    "hanzi": "歌咏",
+    "pinyin": "gēyǒng",
+    "meaning": "gē yǒng  singing",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "慰劳",
+    "hanzi": "慰劳",
+    "pinyin": "wèiláo",
+    "meaning": "wèi láo  to show appreciation (by kind words, small gifts etc)  to comfort",
+    "example": "过年过节时，他总是来慰劳。",
+    "exampleTranslation": "He always comes to show his appreciation during the New Year and holidays.",
+    "level": "9"
+  },
+  {
+    "id": "娇惯",
+    "hanzi": "娇惯",
+    "pinyin": "jiāoguàn",
+    "meaning": "jiāo guàn  to pamper  to coddle  to spoil",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "便饭",
+    "hanzi": "便饭",
+    "pinyin": "biànfàn",
+    "meaning": "biàn fàn  an ordinary meal  simple home cooking",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "孤陋寡闻",
+    "hanzi": "孤陋寡闻",
+    "pinyin": "gūlòu-guǎwén",
+    "meaning": "gū lòu guǎ wén  ignorant and inexperienced  ill-informed and narrow-minded",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "画龙点睛",
+    "hanzi": "画龙点睛",
+    "pinyin": "huàlóng-diǎnjīng",
+    "meaning": "huà lóng diǎn jīng  to paint a dragon and dot in the eyes (idiom); fig. to add the vital finishing touch  the crucial point that brings the subject to life  a few words to clinch the point",
+    "example": "画龙点睛是一则寓言故事。",
+    "exampleTranslation": "Drawing dragons and dotting in the eyes is a fable.",
+    "level": "9"
+  },
+  {
+    "id": "迷惑不解",
+    "hanzi": "迷惑不解",
+    "pinyin": "míhuò-bùjiě",
+    "meaning": "mí huò bù jiě  to feel puzzled",
+    "example": "汤姆迷惑不解。",
+    "exampleTranslation": "Tom remained puzzled.",
+    "level": "9"
+  },
+  {
+    "id": "爱面子",
+    "hanzi": "爱面子",
+    "pinyin": "ài miànzi",
+    "meaning": "ài miàn zi  to like to look good in the eyes of others  sensitive about how one is regarded by others  proud",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "可歌可泣",
+    "hanzi": "可歌可泣",
+    "pinyin": "kěgē-kěqì",
+    "meaning": "kě gē kě qì  lit. you can sing or you can cry (idiom); fig. deeply moving  happy and sad  inspiring and tragic",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "引经据典",
+    "hanzi": "引经据典",
+    "pinyin": "yǐnjīng-jùdiǎn",
+    "meaning": "yǐn jīng jù diǎn  lit. to quote the classics  to quote chapter and verse (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "美滋滋",
+    "hanzi": "美滋滋",
+    "pinyin": "měizīzī",
+    "meaning": "měi zī zī  very happy  elated",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "抑扬顿挫",
+    "hanzi": "抑扬顿挫",
+    "pinyin": "yìyáng-dùncuò",
+    "meaning": "yì yáng dùn cuò  see 頓挫抑揚|顿挫抑扬[dun4 cuo4 yi4 yang2]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "干戈",
+    "hanzi": "干戈",
+    "pinyin": "gāngē",
+    "meaning": "gān gē  weapons of war  arms",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "前赴后继",
+    "hanzi": "前赴后继",
+    "pinyin": "qiánfù-hòujì",
+    "meaning": "qián fù hòu jì  to advance dauntlessly in wave upon wave (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "一概而论",
+    "hanzi": "一概而论",
+    "pinyin": "yígài'érlùn",
+    "meaning": "yī gài ér lùn  to lump different matters together (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "卡子",
+    "hanzi": "卡子",
+    "pinyin": "qiǎzi",
+    "meaning": "qiǎ zi  clip  hair fastener  checkpoint",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "萍水相逢",
+    "hanzi": "萍水相逢",
+    "pinyin": "píngshuǐ-xiāngféng",
+    "meaning": "píng shuǐ xiāng féng  strangers coming together by chance (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "耿直",
+    "hanzi": "耿直",
+    "pinyin": "gěngzhí",
+    "meaning": "gěng zhí  honest  frank  candid",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "老伴儿",
+    "hanzi": "老伴儿",
+    "pinyin": "lǎobànr",
+    "meaning": "lǎo bàn r  erhua variant of 老伴[lao3 ban4]  Noun 老伴husband or wife (of an elderly couple)old friend(figurative) beloved things",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "三番五次",
+    "hanzi": "三番五次",
+    "pinyin": "sānfān-wǔcì",
+    "meaning": "sān fān wǔ cì  over and over again (idiom)",
+    "example": "他三番五次评判别人。",
+    "exampleTranslation": "He judges other people time and again.",
+    "level": "9"
+  },
+  {
+    "id": "思前想后",
+    "hanzi": "思前想后",
+    "pinyin": "sīqián-xiǎnghòu",
+    "meaning": "sī qián xiǎng hòu  to consider past cause and future effect (idiom); to think over the past and future  to ponder over reasons and connection",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "心灵手巧",
+    "hanzi": "心灵手巧",
+    "pinyin": "xīnlíng-shǒuqiǎo",
+    "meaning": "xīn líng shǒu qiǎo  capable  clever  dexterous",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "暴风骤雨",
+    "hanzi": "暴风骤雨",
+    "pinyin": "bàofēng-zhòuyǔ",
+    "meaning": "bào fēng zhòu yǔ  violent wind and rainstorm  hurricane  tempest",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "怡然自得",
+    "hanzi": "怡然自得",
+    "pinyin": "yírán-zìdé",
+    "meaning": "yí rán zì dé  happy and content (idiom)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "书橱",
+    "hanzi": "书橱",
+    "pinyin": "shūchú",
+    "meaning": "shū chú  bookcase",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "电铃",
+    "hanzi": "电铃",
+    "pinyin": "diànlíng",
+    "meaning": "diàn líng  electric bell",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "红扑扑",
+    "hanzi": "红扑扑",
+    "pinyin": "hóngpūpū",
+    "meaning": "hóng pū pū  red  rosy  flushed",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "朱红",
+    "hanzi": "朱红",
+    "pinyin": "zhūhóng",
+    "meaning": "zhū hóng  vermilion",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "没说的",
+    "hanzi": "没说的",
+    "pinyin": "méishuōde",
+    "meaning": "méi shuō de  nothing to pick on  really good  nothing to discuss  settled matter  no problem",
+    "example": "这小伙子既能干又积极，真是没说的。",
+    "exampleTranslation": "The young man is both capable and energetic, needless to say.",
+    "level": "9"
+  },
+  {
+    "id": "敦厚",
+    "hanzi": "敦厚",
+    "pinyin": "dūnhòu",
+    "meaning": "dūn hòu  genuine  honest and sincere",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "公函",
+    "hanzi": "公函",
+    "pinyin": "gōnghán",
+    "meaning": "gōng hán  official letter",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "酣畅",
+    "hanzi": "酣畅",
+    "pinyin": "hānchàng",
+    "meaning": "hān chàng  unrestrained  cheerful lack of inhibition, esp. for drinking or sleeping  to drink with abandon",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "沾光",
+    "hanzi": "沾光",
+    "pinyin": "zhānguāng",
+    "meaning": "zhān guāng  to bask in the light  fig. to benefit from association with sb or sth  reflected glory",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "大模大样",
+    "hanzi": "大模大样",
+    "pinyin": "dàmú-dàyàng",
+    "meaning": "dà mú dà yàng  boldly  ostentatiously  poised  self-assured  Taiwan pr. [da4 mo2 da4 yang4]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "水灵灵",
+    "hanzi": "水灵灵",
+    "pinyin": "shuǐlínglíng",
+    "meaning": "shuǐ líng líng  see 水靈|水灵[shui3 ling2]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "爱理不理",
+    "hanzi": "爱理不理",
+    "pinyin": "àilǐ-bùlǐ",
+    "meaning": "ài lǐ bù lǐ  to look cold and indifferent  standoffish",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "耳闻目睹",
+    "hanzi": "耳闻目睹",
+    "pinyin": "ěrwén-mùdǔ",
+    "meaning": "ěr wén mù dǔ  to witness personally",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "帐子",
+    "hanzi": "帐子",
+    "pinyin": "zhàngzi",
+    "meaning": "zhàng zi  mosquito net  CL:頂|顶[ding3]",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "暖烘烘",
+    "hanzi": "暖烘烘",
+    "pinyin": "nuǎnhōnghōng",
+    "meaning": "nuǎn hōng hōng  nice and warm  cozy  heartwarming",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "离谱儿",
+    "hanzi": "离谱儿",
+    "pinyin": "lípǔr",
+    "meaning": "lí pǔ r  excessive  beyond reasonable limits  irregular",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "贪玩儿",
+    "hanzi": "贪玩儿",
+    "pinyin": "tānwánr",
+    "meaning": "tān wán r  to only want to have a good time  to just want to have fun, and to shy away from self-discipline",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "人缘儿",
+    "hanzi": "人缘儿",
+    "pinyin": "rényuánr",
+    "meaning": "rén yuán r  erhua variant of 人緣|人缘[ren2 yuan2]  Noun 人緣interpersonal relations; popularity",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "说干就干",
+    "hanzi": "说干就干",
+    "pinyin": "shuō gàn jiù gàn",
+    "meaning": "shuō gàn jiù gàn  to do what needs to be done, without delay",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "难以想象",
+    "hanzi": "难以想象",
+    "pinyin": "nányǐ-xiǎngxiàng",
+    "meaning": "nányǐ-xiǎngxiàng  unimaginable  beyond imagination",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "沐浴露",
+    "hanzi": "沐浴露",
+    "pinyin": "mùyùlù",
+    "meaning": "mù yù lù  shower gel",
+    "example": "我不用沐浴露。",
+    "exampleTranslation": "I don't use shower gel.",
+    "level": "9"
+  },
+  {
+    "id": "正能量",
+    "hanzi": "正能量",
+    "pinyin": "zhèngnéngliàng",
+    "meaning": "zhèng néng liàng  positive energy  positivity",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "别提了",
+    "hanzi": "别提了",
+    "pinyin": "biétí le",
+    "meaning": "bié tí le  say no more  don't bring it up  drop the subject",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "打盹儿",
+    "hanzi": "打盹儿",
+    "pinyin": "dǎdǔnr",
+    "meaning": "dǎ dǔn r  erhua variant of 打盹[da3 dun3]  Verb 打⫽盹 (verb-object)to take a nap; to doze off; to nod off",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "报亭",
+    "hanzi": "报亭",
+    "pinyin": "bàotíng",
+    "meaning": "bào tíng  kiosk  newsstand",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "点击率",
+    "hanzi": "点击率",
+    "pinyin": "diǎnjīlǜ",
+    "meaning": "diǎn jī lǜ  click-through rate (CTR) (Internet)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "搜救",
+    "hanzi": "搜救",
+    "pinyin": "sōujiù",
+    "meaning": "sōu jiù  search and rescue",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "着眼于",
+    "hanzi": "着眼于",
+    "pinyin": "zhuóyǎn yú",
+    "meaning": "zhuóyǎn yú  with an eye on",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "忽高忽低",
+    "hanzi": "忽高忽低",
+    "pinyin": "hūgāo-hūdī",
+    "meaning": "hū gāo hū dī  alternately soaring and plunging",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "大数据",
+    "hanzi": "大数据",
+    "pinyin": "dàshùjù",
+    "meaning": "dà shù jù  big data (computing)",
+    "example": "听说大数据技术现在很热门。",
+    "exampleTranslation": "I hear that the network is very popular now.",
+    "level": "9"
+  },
+  {
+    "id": "操控",
+    "hanzi": "操控",
+    "pinyin": "cāokòng",
+    "meaning": "cāo kòng  to control  to manipulate",
+    "example": "这场球赛被操控了。",
+    "exampleTranslation": "This game got rigged.",
+    "level": "9"
+  },
+  {
+    "id": "做证",
+    "hanzi": "做证",
+    "pinyin": "zuòzhèng",
+    "meaning": "zuòzhèng  testify",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "大腕儿",
+    "hanzi": "大腕儿",
+    "pinyin": "dàwànr",
+    "meaning": "dà wàn r  erhua variant of 大腕[da4 wan4]  Noun 大腕(slang) big name; big shot; one who is powerful and famous (especially in entertainment, artistic or academic circles)這個著名的電影明星是個大腕，他每次公開露面，狗仔隊都試圖拍攝他。 [MSC, trad.] 这个著名的电影明星是个大腕，他每次公开露面，狗仔队都试图拍摄他。 [MSC, simp.]Zhège zhùmíng de diànyǐng míngxīng shì ge dàwàn, tā měicì gōngkāi lùmiàn, gǒuzǐduì dōu shìtú pāishè tā. [Pinyin]This famous movie star is a big shot - every time he goes out in public, the paparazzi tries to take photos of him.",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "领军",
+    "hanzi": "领军",
+    "pinyin": "lǐngjūn",
+    "meaning": "lǐng jūn  to lead troups  (fig.) to lead  leading",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "时好时坏",
+    "hanzi": "时好时坏",
+    "pinyin": "shíhǎo-shíhuài",
+    "meaning": "shí hǎo shí huài  sometimes good, sometimes bad",
+    "example": "我父亲的状况时好时坏。",
+    "exampleTranslation": "My father's condition seems to improve one moment, but the next moment he sinks again.",
+    "level": "9"
+  },
+  {
+    "id": "办不到",
+    "hanzi": "办不到",
+    "pinyin": "bàn bu dào",
+    "meaning": "bàn bu dào  impossible  can't be done  no can do  unable to accomplish",
+    "example": "现在是我们回答这个问题的机会。这是我们的时刻这是我们的时代--让我们的人民重新就业，为我们的后代敞开机会之门，恢复繁荣，推进和平，重新确立“美国咪”，再次证明这样一个基本的真理：我们是一家人；只要一息尚存，我们就有希望；当我们遇到嘲讽和怀疑，当有人说我们办不到的时候，我们要以这个永恒的信条来回应他们。是的，我们能做到",
+    "exampleTranslation": "This is our chance to answer that call. This is our moment. This is our time, to put our people back to work and open doors of opportunity for our kids; to restore prosperity and promote the cause of peace; to reclaim the American dream and reaffirm that fundamental truth, that out of many, we are one; that while we breathe, we hope. And where we are met with cynicism and doubt and those who tell us that we can't, we will respond with that timeless creed that sums up the spirit of a people: Yes, we can.",
+    "level": "9"
+  },
+  {
+    "id": "吹了",
+    "hanzi": "吹了",
+    "pinyin": "chuī le",
+    "meaning": "chuī le  failed  busted  to have not succeeded  to have died  to have parted company  to have chilled (of a relationship)",
+    "example": "帽子被风吹了起来。",
+    "exampleTranslation": "The hat was blown away by the wind.",
+    "level": "9"
+  },
+  {
+    "id": "双赢",
+    "hanzi": "双赢",
+    "pinyin": "shuāngyíng",
+    "meaning": "shuāng yíng  profitable to both sides  a win-win situation",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "低碳",
+    "hanzi": "低碳",
+    "pinyin": "dītàn",
+    "meaning": "dī tàn  (attributive) low-carbon  low-carb (diet)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "软实力",
+    "hanzi": "软实力",
+    "pinyin": "ruǎnshílì",
+    "meaning": "ruǎn shí lì  soft power (in international relations)",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  },
+  {
+    "id": "茶馆儿",
+    "hanzi": "茶馆儿",
+    "pinyin": "cháguǎnr",
+    "meaning": "chá guǎn r  a teashop",
+    "example": "",
+    "exampleTranslation": "",
+    "level": "9"
+  }
+]
